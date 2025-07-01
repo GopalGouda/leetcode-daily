@@ -1,0 +1,13 @@
+# C++ compiled files
+*.exe
+*.obj
+*.o
+
+# Visual Studio settings
+.vscode/
+.vs/
+*.suo
+*.user
+*.VC.db
+*.log
+*.pdb
