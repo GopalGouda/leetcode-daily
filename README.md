@@ -9,9 +9,9 @@
 
 📅 **Goal:** Solve 1 LeetCode problem every day  
 📌 **Language:** C++  
-🚀 **Started:** 2025-07-01 
-🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)
-📊 ![Progress](https://progress-bar.dev/2/?scale=100&title=Completed&width=300&color=4caf50)
+🚀 **Started:** 2025-07-01  
+🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
+📊 ![Progress](https://img.shields.io/badge/Progress-2%2F100-blueviolet?style=for-the-badge)
 
 ---
 
