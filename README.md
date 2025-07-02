@@ -11,7 +11,8 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-📊 ![Progress](https://img.shields.io/badge/Progress-2%2F100-blueviolet?style=for-the-badge)
+📊 ![Progress](https://img.shields.io/badge/Progress-2%2F100-blueviolet?style=for-the-badge)  
+![Progress](https://img.shields.io/badge/Progress-2%25-brightgreen)
 
 ---
 
