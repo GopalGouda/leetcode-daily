@@ -3,7 +3,7 @@
 // 🗂 Topic: arrays
 // ⏱ Time Complexity: O(N)
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: Two Pointers – Swap matching element to the end and reduce size 
+// 🧠 Approach: Two Pointers – Swap matching element to the end and reduce size
 
 #include <iostream>
 #include <vector>
@@ -11,7 +11,7 @@ using namespace std;
 
 class Solution {
 public:
-int removeElement(vector<int>& nums, int val) {
+    int removeElement(vector<int>& nums, int val) {
         int i = 0, j = nums.size() - 1;
         while (i <= j) {
             if (nums[i] == val) {
