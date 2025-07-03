@@ -60,9 +60,11 @@ if table_start_index is not None:
 # ====== 📊 Update Progress Bar ======
 solved_count = sum(1 for line in lines if line.strip().startswith("| 202"))
 
-progress_index = next((i for i, line in enumerate(lines) if "progress-bar.dev" in line), None)
-if progress_index is not None:
-    lines[progress_index] = f"![Progress](https://img.shields.io/badge/Completed-{solved_count}%2F100-4caf50)\n"
+# Replace shields.io badge line (new format)
+for i, line in enumerate(lines):
+    if "shields.io/badge/Completed-" in line:
+        lines[i] = f"![Progress](https://img.shields.io/badge/Completed-{solved_count}%2F100-brightgreen)\n"
+        break
 
 # ====== 💾 Save README ======
 with open(readme_path, "w", encoding="utf-8") as f:
