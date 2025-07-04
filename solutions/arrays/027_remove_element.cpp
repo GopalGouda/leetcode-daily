@@ -27,8 +27,6 @@ public:
 
 int main() {
     Solution sol;
-
-    // Example test case
     vector<int> nums = {3, 2, 2, 3};
     int val = 3;
 
