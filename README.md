@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-5%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-6%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-05 | Trapping Rain Water | arrays | C++ | [View](solutions/arrays/042_trapping_rain_water.cpp) |
 | 2025-07-04 | valid mountain array | arrays | C++ | [View](solutions/arrays/941_valid_mountain_array.cpp) |
 | 2025-07-03 | sort colors | arrays | C++ | [View](solutions/arrays/075_sort_colors.cpp) |
 | 2025-07-03 | remove element | arrays | C++ | [View](solutions/arrays/027_remove_element.cpp) |
