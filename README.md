@@ -40,4 +40,4 @@ Tracking my daily problem-solving journey in C++.
 ## 🗂 Problem Categories
 
 - [Arrays](solutions/arrays/)
-- [Maths] (solutions/maths/)
+- [Maths](solutions/maths/)
