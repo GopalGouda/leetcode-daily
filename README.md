@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-7%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-8%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-07 | plus one | maths | C++ | [View](solutions/maths/066_plus_one.cpp) |
 | 2025-07-06 | Palindrome Number | maths | C++ | [View](solutions/maths/009_palindrome_number.cpp) |
 | 2025-07-05 | Trapping Rain Water | arrays | C++ | [View](solutions/arrays/042_trapping_rain_water.cpp) |
 | 2025-07-04 | valid mountain array | arrays | C++ | [View](solutions/arrays/941_valid_mountain_array.cpp) |
