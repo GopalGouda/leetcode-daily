@@ -3,7 +3,7 @@
 // 🗂 Topic: maths
 // ⏱ Time Complexity: O(N)
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: Traverse digits from end, add 1, manage carry, and insert carry at front if needed.
+// 🧠 Approach: Traverse digits from end, add 1, manage carry, and insert carry at front if needed
 
 #include <iostream>
 #include <vector>
