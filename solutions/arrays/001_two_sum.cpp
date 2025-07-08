@@ -11,6 +11,6 @@ public:
                 }
             }
         }
-        return {}; // Return empty vector if no solution
+        return {}; // Return empty vector if no solution.
     }
 };
