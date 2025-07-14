@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-13%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-14%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-14 | Valid Perfect Square | binary_search | C++ | [View](solutions/binary_search/367_valid_perfect_square.cpp) |
 | 2025-07-13 | Add Digits | maths | C++ | [View](solutions/maths/258_add_digits.cpp) |
 | 2025-07-12 | Search Insert Position | binary_search | C++ | [View](solutions/binary_search/035_search_insert_position.cpp) |
 | 2025-07-11 | Find First and Last Position of Element in Sorted Array | Binary search | C++ | [View](solutions/binary_search/034_find_first_and_last_position_of_element_in_sorted_array.cpp) |
