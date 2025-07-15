@@ -10,7 +10,6 @@
 📅 **Goal:** Solve 1 LeetCode problem every day  
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
-🔥 **GitHub Contribution Streak** ![GitHub Streak](https://streak-stats.demolab.com?user=GopalGouda)  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
 ![Progress](https://img.shields.io/badge/Completed-15%2F100-brightgreen)
 
