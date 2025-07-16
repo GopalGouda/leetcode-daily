@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-16%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-17%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-16 | Peak Index in a Mountain Array | binary_search | C++ | [View](solutions/binary_search/852_peak_index_in_a_mountain_array.cpp) |
 | 2025-07-16 | sqrt(x) | binary_search | C++ | [View](solutions/binary_search/069_sqrt(x).cpp) |
 | 2025-07-15 | Fibonacci Number | maths | C++ | [View](solutions/maths/509_fibonacci_number.cpp) |
 | 2025-07-14 | Valid Perfect Square | binary_search | C++ | [View](solutions/binary_search/367_valid_perfect_square.cpp) |
