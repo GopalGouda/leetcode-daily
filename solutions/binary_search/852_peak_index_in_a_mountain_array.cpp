@@ -3,7 +3,7 @@
 // 🗂 Topic: binary_search
 // ⏱ Time Complexity: O(log n)
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: Binary Search on Monotonic Functions(first increasing, then decreasing).
+// 🧠 Approach: Binary Search on Monotonic Functions(first increasing, then decreasing)
 
 #include <iostream>
 #include <vector>
