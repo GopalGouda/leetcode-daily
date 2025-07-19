@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-19%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-20%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-19 | Squares of a Sorted Array | arrays | C++ | [View](solutions/arrays/977_squares_of_a_sorted_array.cpp) |
 | 2025-07-18 | Find K Closest Elements | binary_search | C++ | [View](solutions/binary_search/658_find_k_closest_elements.cpp) |
 | 2025-07-17 | Search in Rotated Sorted Array | binary_search | C++ | [View](solutions/binary_search/033_search_in_rotated_sorted_array.cpp) |
 | 2025-07-16 | Peak Index in a Mountain Array | binary_search | C++ | [View](solutions/binary_search/852_peak_index_in_a_mountain_array.cpp) |
