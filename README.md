@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-21%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-22%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-21 | Capacity To Ship Packages Within D Days | binary_search | C++ | [View](solutions/binary_search/1011_capacity_to_ship_packages_within_d_days.cpp) |
 | 2025-07-20 | Sum of Square Numbers | maths | C++ | [View](solutions/maths/633_sum_of_square_numbers.cpp) |
 | 2025-07-19 | Squares of a Sorted Array | arrays | C++ | [View](solutions/arrays/977_squares_of_a_sorted_array.cpp) |
 | 2025-07-18 | Find K Closest Elements | binary_search | C++ | [View](solutions/binary_search/658_find_k_closest_elements.cpp) |
