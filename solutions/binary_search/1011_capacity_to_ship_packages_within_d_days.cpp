@@ -13,44 +13,41 @@ class Solution {
 public:
     bool check(int mid, vector<int>& weights, int days){
         int n=weights.size();
-        int m=mid;
-        int count=1; //Count the number of days
+        int m=mid; //capacity;
+        int count=1; //It will count the numbers of days. starts with day-1
         for(int i=0; i<n; i++){
             if(m>=weights[i]){
                 m-=weights[i];
             }else{
                 count++;
-                m=mid;
-                m-=weights[i];
+                m=mid; //restart the capacity;
+                m-=weights[i]; //so that the loop don't skip the 'i'
             }
         }
-        if(count>days) return false;
-            else return true;
+        if(count<=days)return true;
+        else return false;
     }
     int shipWithinDays(vector<int>& weights, int days) {
+        int max=INT_MIN; //it will store the minimum capacity of ship(but not confirm within the days or not)
+        int sum=0; //It will store the maximum capacity of ship
         int n=weights.size();
-        int max=INT_MIN; //maximum capacity
-        int sum=0; //total weight
-
         for(int i=0; i<n; i++){
             if(max<weights[i]) max=weights[i];
             sum+=weights[i];
         }
-        //binary search
+        //Binary search
         int low=max;
         int high=sum;
-        int mid;
-        int MinCapacity;
-
+        int mid; //Capacity
+        int MinCapacity; //It will store the actual minimum capacity
         while(low<=high){
-           mid=low+(high-low)/2;
-        if(check(mid, weights, days)){
-            MinCapacity=mid;
-            high=mid-1; //we're looking for minimum so high is reducing
-        }else low= mid+1;
+            mid=low+(high-low)/2;
+            if(check(mid,weights, days )){ //check if the mid can do it within the given days
+                MinCapacity= mid;
+                high= mid-1; //we will check if there any smaller capacity
+            }else low= mid+1;
         }
         return MinCapacity;
-        
     }
 };
 
