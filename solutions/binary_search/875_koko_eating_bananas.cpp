@@ -12,31 +12,40 @@ using namespace std;
 
 class Solution {
 public:
-    bool check(int mid, vector<int>& piles, int h) {
-        int count = 0;
-        for (int i = 0; i < piles.size(); i++) {
-            count += (piles[i] + mid - 1) / mid;  // ceil division
-            if (count > h) return false;          // early exit
+    bool check(int mid, vector<int>& piles, int h){
+        int n=piles.size();
+        int count=0;
+        for(int i=0; i<n; i++){
+            count+= (piles[i] + mid -1)/mid; //Equivalent to ceil(piles[i] / mid)
+            if(count>h) return false; // if count is >hours then no need to check further.
         }
-        return true;
+        if(count>h) return false;
+        else return true;
+
     }
-
     int minEatingSpeed(vector<int>& piles, int h) {
-        int maxPile = *max_element(piles.begin(), piles.end());
-        int lo = 1, hi = maxPile, ans = maxPile;
+        int n=piles.size();
+        int max=INT_MIN;
+        max=*max_element(piles.begin(), piles.end()); //find the maximum;
 
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (check(mid, piles, h)) {
-                ans = mid;
-                hi = mid - 1;  // try smaller speeds
-            } else {
-                lo = mid + 1;  // need more speed
-            }
+        
+        //binary search
+        int lo=1;
+        int hi=max;
+        int mid;
+        int ans;
+        while(lo<=hi){
+            mid= lo+(hi-lo)/2;
+            if(check(mid, piles, h)){ //check if koko is eating bananas in minimum time
+                ans=mid;
+                hi= mid-1;// Try smaller speed
+            }else lo= mid+1;// Need high speed
+            
         }
         return ans;
     }
 };
+
 
 int main() {
     Solution sol;
