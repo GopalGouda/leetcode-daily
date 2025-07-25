@@ -60,4 +60,4 @@ Tracking my daily problem-solving journey in C++.
 - [Arrays](solutions/arrays/)
 - [Maths](solutions/maths/)
 - [Binary_Search](solutions/binary_search/)
-- [Bit_Manipulation](solutions/bit manipulation/)
+- [Bit_Manipulation](solutions/bit_manipulation/)
