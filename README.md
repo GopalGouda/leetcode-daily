@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2025-07-25 | Power of Two | Bit Manipulation | C++ | [View](solutions/bit manipulation/231_power_of_two.cpp) |
+| 2025-07-25 | Power of Two | Bit Manipulation | C++ | [View](solutions/bit_manipulation/231_power_of_two.cpp) |
 | 2025-07-24 | Minimum Time to Complete Trips | binary_search | C++ | [View](solutions/binary_search/2187_minimum_time_to_complete_trips.cpp) |
 | 2025-07-23 | Koko Eating Bananas | binary_search | C++ | [View](solutions/binary_search/875_koko_eating_bananas.cpp) |
 | 2025-07-21 | Capacity To Ship Packages Within D Days | binary_search | C++ | [View](solutions/binary_search/1011_capacity_to_ship_packages_within_d_days.cpp) |
@@ -60,4 +60,4 @@ Tracking my daily problem-solving journey in C++.
 - [Arrays](solutions/arrays/)
 - [Maths](solutions/maths/)
 - [Binary_Search](solutions/binary_search/)
-- [Bit Manipulation](solutions/bit manipulation/)
+- [Bit_Manipulation](solutions/bit manipulation/)
