@@ -3,7 +3,7 @@
 // 🗂 Topic: bit_manipulation
 // ⏱ Time Complexity: O(log (N))
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: 
+// 🧠 Approach: Bit Manipulation
 
 #include <iostream>
 #include <vector>
