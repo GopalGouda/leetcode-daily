@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-25%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-26%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-26 | Divide Two Integers | bit_manipulation | C++ | [View](solutions/bit_manipulation/029_divide_two_integers.cpp) |
 | 2025-07-25 | Power of Two | Bit Manipulation | C++ | [View](solutions/bit_manipulation/231_power_of_two.cpp) |
 | 2025-07-24 | Minimum Time to Complete Trips | binary_search | C++ | [View](solutions/binary_search/2187_minimum_time_to_complete_trips.cpp) |
 | 2025-07-23 | Koko Eating Bananas | binary_search | C++ | [View](solutions/binary_search/875_koko_eating_bananas.cpp) |
