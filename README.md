@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-28%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-29%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-29 | Power of Four | maths | C++ | [View](solutions/maths/342_power_of_four.cpp) |
 | 2025-07-28 | Missing Number | maths | C++ | [View](solutions/maths/268_missing_number.cpp) |
 | 2025-07-27 | Find the Duplicate Number | Bit Manipulation | C++ | [View](solutions/bit_manipulation/287_find_the_duplicate_number.cpp) |
 | 2025-07-26 | Divide Two Integers | bit_manipulation | C++ | [View](solutions/bit_manipulation/029_divide_two_integers.cpp) |
