@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-30%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-31%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-07-31 | Climbing Stairs | maths | C++ | [View](solutions/maths/070_climbing_stairs.cpp) |
 | 2025-07-30 | Number of 1 Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/191_number_of_1_bits.cpp) |
 | 2025-07-29 | Power of Four | maths | C++ | [View](solutions/maths/342_power_of_four.cpp) |
 | 2025-07-28 | Missing Number | maths | C++ | [View](solutions/maths/268_missing_number.cpp) |
