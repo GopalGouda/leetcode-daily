@@ -19,7 +19,7 @@ public:
         int total; //Total way to climb
         //way to climb step 3 and others
         for(int i=3; i<=n; i++){
-            total= a+b;
+            total= a+b; //total ways to reach current step
             a=b;
             b=total;
         }
