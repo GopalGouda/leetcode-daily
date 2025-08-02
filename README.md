@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-32%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-33%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-02 | Counting Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/338_counting_bits.cpp) |
 | 2025-08-01 | Prime Number of Set Bits in Binary Representation | bit_manipulation | C++ | [View](solutions/bit_manipulation/762_prime_number_of_set_bits_in_binary_representation.cpp) |
 | 2025-07-31 | Climbing Stairs | maths | C++ | [View](solutions/maths/070_climbing_stairs.cpp) |
 | 2025-07-30 | Number of 1 Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/191_number_of_1_bits.cpp) |
