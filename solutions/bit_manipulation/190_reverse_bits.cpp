@@ -1,8 +1,8 @@
 // ✅ Problem: Reverse Bits
 // 🔗 Link: https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=bit-manipulation
 // 🗂 Topic: bit_manipulation
-// ⏱ Time Complexity: O(.)
-// 💾 Space Complexity: O(.)
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
