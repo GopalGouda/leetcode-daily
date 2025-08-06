@@ -1,8 +1,8 @@
 // ✅ Problem: Sum of Two Integers
 // 🔗 Link: https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation
 // 🗂 Topic: bit_manipulation
-// ⏱ Time Complexity: O(.)
-// 💾 Space Complexity: O(.)
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
@@ -12,7 +12,15 @@ using namespace std;
 
 class Solution {
 public:
-    // Your code here
+    int getSum(int a, int b) {
+        while(b!=0){
+            unsigned carry= (unsigned)(a&b)<<1;
+            a=a^b;
+            b=carry;
+
+        }
+        return a;
+    }
 };
 
 int main() {
