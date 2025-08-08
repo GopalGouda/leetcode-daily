@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-38%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-39%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-08 | Find the Difference | bit_manipulation | C++ | [View](solutions/bit_manipulation/389_find_the_difference.cpp) |
 | 2025-08-07 | Integer Replacement | bit_manipulation | C++ | [View](solutions/bit_manipulation/397_integer_replacement.cpp) |
 | 2025-08-06 | Sum of Two Integers | bit_manipulation | C++ | [View](solutions/bit_manipulation/371_sum_of_two_integers.cpp) |
 | 2025-08-05 | Unique Paths | maths | C++ | [View](solutions/maths/062_unique_paths.cpp) |
