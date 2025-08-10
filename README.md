@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-40%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-41%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-10 | Set Mismatch | maths | C++ | [View](solutions/maths/645_set_mismatch.cpp) |
 | 2025-08-09 | Binary Number with Alternating Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/693_binary_number_with_alternating_bits.cpp) |
 | 2025-08-08 | Find the Difference | bit_manipulation | C++ | [View](solutions/bit_manipulation/389_find_the_difference.cpp) |
 | 2025-08-07 | Integer Replacement | bit_manipulation | C++ | [View](solutions/bit_manipulation/397_integer_replacement.cpp) |
