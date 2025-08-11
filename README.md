@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2025-08-11 | Number Complement | bit manipulation | C++ | [View](solutions/bit manipulation/476_number_complement.cpp) |
+| 2025-08-11 | Number Complement | bit_manipulation | C++ | [View](solutions/bit manipulation/476_number_complement.cpp) |
 | 2025-08-10 | Set Mismatch | maths | C++ | [View](solutions/maths/645_set_mismatch.cpp) |
 | 2025-08-09 | Binary Number with Alternating Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/693_binary_number_with_alternating_bits.cpp) |
 | 2025-08-08 | Find the Difference | bit_manipulation | C++ | [View](solutions/bit_manipulation/389_find_the_difference.cpp) |
