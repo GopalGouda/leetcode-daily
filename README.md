@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-43%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-44%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-13 | Add Binary | bit_manipulation | C++ | [View](solutions/bit_manipulation/067_add_binary.cpp) |
 | 2025-08-12 | Binary Gap | bit_manipulation | C++ | [View](solutions/bit_manipulation/868_binary_gap.cpp) |
 | 2025-08-11 | Number Complement | bit_manipulation | C++ | [View](solutions/bit_manipulation/476_number_complement.cpp) |
 | 2025-08-10 | Set Mismatch | maths | C++ | [View](solutions/maths/645_set_mismatch.cpp) |
