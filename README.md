@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-46%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-47%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-16 | Number of Even and Odd Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/2595_number_of_even_and_odd_bits.cpp) |
 | 2025-08-15 | Flipping an Image | bit_manipulation | C++ | [View](solutions/bit_manipulation/832_flipping_an_image.cpp) |
 | 2025-08-14 |  Convert a Number to Hexadecimal | bit_manipulation | C++ | [View](solutions/bit_manipulation/405__convert_a_number_to_hexadecimal.cpp) |
 | 2025-08-13 | Add Binary | bit_manipulation | C++ | [View](solutions/bit_manipulation/067_add_binary.cpp) |
