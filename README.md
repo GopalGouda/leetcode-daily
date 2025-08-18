@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-48%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-49%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-18 | Sort Integers by The Number of 1 Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/1356_sort_integers_by_the_number_of_1_bits.cpp) |
 | 2025-08-17 | Number of Steps to Reduce a Number to Zero | maths | C++ | [View](solutions/maths/1342_number_of_steps_to_reduce_a_number_to_zero.cpp) |
 | 2025-08-16 | Number of Even and Odd Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/2595_number_of_even_and_odd_bits.cpp) |
 | 2025-08-15 | Flipping an Image | bit_manipulation | C++ | [View](solutions/bit_manipulation/832_flipping_an_image.cpp) |
