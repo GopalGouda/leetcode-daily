@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-51%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-52%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-21 | XOR Operation in an Array | bit_manipulation | C++ | [View](solutions/bit_manipulation/1486_xor_operation_in_an_array.cpp) |
 | 2025-08-20 | Minimum Bit Flips to Convert Number | bit_manipulation | C++ | [View](solutions/bit_manipulation/2220_minimum_bit_flips_to_convert_number.cpp) |
 | 2025-08-19 | First Letter to Appear Twice | bit_manipulation | C++ | [View](solutions/bit_manipulation/2351_first_letter_to_appear_twice.cpp) |
 | 2025-08-18 | Sort Integers by The Number of 1 Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/1356_sort_integers_by_the_number_of_1_bits.cpp) |
