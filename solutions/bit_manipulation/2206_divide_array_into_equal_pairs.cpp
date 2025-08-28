@@ -1,8 +1,8 @@
 // ✅ Problem: Divide Array Into Equal Pairs
 // 🔗 Link: https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=problem-list-v2&envId=bit-manipulation
 // 🗂 Topic: bit_manipulation
-// ⏱ Time Complexity: O(.)
-// 💾 Space Complexity: O(.)
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(N)
 // 🧠 Approach: 
 
 #include <iostream>
