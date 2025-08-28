@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-57%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-58%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-08-28 | Divide Array Into Equal Pairs | bit_manipulation | C++ | [View](solutions/bit_manipulation/2206_divide_array_into_equal_pairs.cpp) |
 | 2025-08-26 | Complement of Base 10 Integer | bit_manipulation | C++ | [View](solutions/bit_manipulation/1009_complement_of_base_10_integer.cpp) |
 | 2025-08-25 | Find the XOR of Numbers Which Appear Twice | bit_manipulation | C++ | [View](solutions/bit_manipulation/3158_find_the_xor_of_numbers_which_appear_twice.cpp) |
 | 2025-08-24 | Binary Prefix Divisible By 5 | bit_manipulation | C++ | [View](solutions/bit_manipulation/1018_binary_prefix_divisible_by_5.cpp) |
