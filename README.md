@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-61%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-62%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-01 | Intersection of Two Arrays | arrays | C++ | [View](solutions/arrays/349_intersection_of_two_arrays.cpp) |
 | 2025-08-31 | Smallest Number With All Set Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/3370_smallest_number_with_all_set_bits.cpp) |
 | 2025-08-30 | Sum of All Subset XOR Totals | bit_manipulation | C++ | [View](solutions/bit_manipulation/1863_sum_of_all_subset_xor_totals.cpp) |
 | 2025-08-29 | Contains Duplicate | hash_table | C++ | [View](solutions/hash_table/217_contains_duplicate.cpp) |
