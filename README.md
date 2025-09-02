@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2025-09-02 | array | Build Array from Permutation | C++ | [View](solutions/arrays/1920_Build_Array_from_Permutation.cpp) |
+| 2025-09-02 | Build Array from Permutation | arrays | C++ | [View](solutions/arrays/1920_Build_Array_from_Permutation.cpp) |
 | 2025-09-01 | Intersection of Two Arrays | arrays | C++ | [View](solutions/arrays/349_intersection_of_two_arrays.cpp) |
 | 2025-08-31 | Smallest Number With All Set Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/3370_smallest_number_with_all_set_bits.cpp) |
 | 2025-08-30 | Sum of All Subset XOR Totals | bit_manipulation | C++ | [View](solutions/bit_manipulation/1863_sum_of_all_subset_xor_totals.cpp) |
