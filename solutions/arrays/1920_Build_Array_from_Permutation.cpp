@@ -14,11 +14,17 @@ class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
         int n= nums.size();
-        vector <int> ans;
-        for(int i=0; i<n; i++){
-            ans.push_back(nums[nums[i]]);
+// Encode both old and new values in nums
+        for (int i = 0; i < n; i++) {
+            nums[i] = nums[i] + n * (nums[nums[i]] % n);
         }
-        return ans;
+
+        // Extract the new values
+        for (int i = 0; i < n; i++) {
+            nums[i] = nums[i] / n;
+        }
+
+        return nums;
 
     }
 };
