@@ -3,8 +3,7 @@
 // 🗂 Topic: Build Array from Permutation
 // ⏱ Time Complexity: O(N)
 // 💾 Space Complexity: O(N)
-// 🧠 Approach: simple use of vector
-
+// 🧠 Approach: nums[i]=nums[i]+(n×(nums[nums[i]]%n))
 #include <iostream>
 #include <vector>
 #include <algorithm>
