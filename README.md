@@ -105,4 +105,4 @@ Tracking my daily problem-solving journey in C++.
 - [Maths](solutions/maths/)
 - [Binary_Search](solutions/binary_search/)
 - [Bit_Manipulation](solutions/bit_manipulation/)
-- [Hash Table](solutions/hash_table/)
+- [Hash_Table](solutions/hash_table/)
