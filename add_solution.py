@@ -24,6 +24,7 @@ template = f"""// ✅ Problem: {name}
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <unordered_map>
 using namespace std;
 
 class Solution {{
