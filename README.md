@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-69%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-70%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-09 | Number of Employees Who Met the Target | arrays | C++ | [View](solutions/arrays/2798_number_of_employees_who_met_the_target.cpp) |
 | 2025-09-08 | Number of Good Pairs | hash_table | C++ | [View](solutions/hash_table/1512_number_of_good_pairs.cpp) |
 | 2025-09-07 | Minimum Operations to Make Array Sum Divisible by K | arrays | C++ | [View](solutions/arrays/3512_minimum_operations_to_make_array_sum_divisible_by_k.cpp) |
 | 2025-09-06 | Shuffle the Array | arrays | C++ | [View](solutions/arrays/1470_shuffle_the_array.cpp) |
