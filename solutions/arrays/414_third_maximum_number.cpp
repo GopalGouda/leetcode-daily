@@ -14,14 +14,36 @@ using namespace std;
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set <int> vec(nums.begin(), nums.end()); //eleminate duplicate using set;
-        if(vec.size()<3) return *vec.rbegin();
+        // Step 1: find the maximum
+        int first = *max_element(nums.begin(), nums.end());
 
-        //else erase last two largest number;
-        vec.erase(*vec.rbegin());
-        vec.erase(*vec.rbegin());
-        
-        return *vec.rbegin();
+        // Step 2: find the maximum smaller than 'first'
+        int second = INT_MIN;
+        bool foundSecond = false;
+        for (int x : nums) {
+            if (x < first) {
+                if (!foundSecond || x > second) {
+                    second = x;
+                    foundSecond = true;
+                }
+            }
+        }
+
+        if (!foundSecond) return first; // fewer than 2 distinct numbers
+
+        // Step 3: find the maximum smaller than 'second'
+        int third = INT_MIN;
+        bool foundThird = false;
+        for (int x : nums) {
+            if (x < second) {
+                if (!foundThird || x > third) {
+                    third = x;
+                    foundThird = true;
+                }
+            }
+        }
+
+        return foundThird ? third : first;
     }
 };
 
