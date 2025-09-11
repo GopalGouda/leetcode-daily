@@ -3,7 +3,7 @@
 // 🗂 Topic: arrays
 // ⏱ Time Complexity: O(N)
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: 
+// 🧠 Approach: Nagative marking technique
 
 #include <iostream>
 #include <vector>
@@ -15,12 +15,12 @@ public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         vector<int> ans;
         for(int i=0; i<nums.size(); i++){
-            nums[i]+=1;
+            nums[i]+=1; // increase 1 in each so that we can turn then into -ve( specially for "0")
         }
         for(int i=0; i<nums.size(); ++i){
             int idx= abs(nums[i]);
-            if(nums[idx]<0) ans.push_back(idx-1);
-            else nums[idx] *= (-1);
+            if(nums[idx]<0) ans.push_back(idx-1); //if it -ve means already visited(duplicate)
+            else nums[idx] *= (-1); // if +ve turn into -ve to mark as visited
         }
         return ans;
     }
