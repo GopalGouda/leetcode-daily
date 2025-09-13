@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-73%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-74%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-13 | Difference Between Element Sum and Digit Sum of an Array | arrays | C++ | [View](solutions/arrays/2535_difference_between_element_sum_and_digit_sum_of_an_array.cpp) |
 | 2025-09-12 | Create Target Array in the Given Order | arrays | C++ | [View](solutions/arrays/1389_create_target_array_in_the_given_order.cpp) |
 | 2025-09-11 | The Two Sneaky Numbers of Digitville | arrays | C++ | [View](solutions/arrays/3289_the_two_sneaky_numbers_of_digitville.cpp) |
 | 2025-09-10 | Third Maximum Number | arrays | C++ | [View](solutions/arrays/414_third_maximum_number.cpp) |
