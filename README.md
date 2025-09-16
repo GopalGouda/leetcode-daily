@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-76%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-77%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-16 | Minimum Operations to Make the Array Increasing | arrays | C++ | [View](solutions/arrays/1827_minimum_operations_to_make_the_array_increasing.cpp) |
 | 2025-09-15 | Special Array I | arrays | C++ | [View](solutions/arrays/3151_special_array_i.cpp) |
 | 2025-09-14 | Minimum Element After Replacement With Digit Sum | arrays | C++ | [View](solutions/arrays/3300_minimum_element_after_replacement_with_digit_sum.cpp) |
 | 2025-09-13 | Difference Between Element Sum and Digit Sum of an Array | arrays | C++ | [View](solutions/arrays/2535_difference_between_element_sum_and_digit_sum_of_an_array.cpp) |
