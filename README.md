@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-80%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-81%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-20 | How Many Numbers Are Smaller Than the Current Number | arrays | C++ | [View](solutions/arrays/1365_how_many_numbers_are_smaller_than_the_current_number.cpp) |
 | 2025-09-19 | Find Greatest Common Divisor of Array | arrays | C++ | [View](solutions/arrays/1979_find_greatest_common_divisor_of_array.cpp) |
 | 2025-09-18 | Running Sum of 1d Array | arrays | C++ | [View](solutions/arrays/1480_running_sum_of_1d_array.cpp) |
 | 2025-09-17 | Find the Integer Added to Array I | arrays | C++ | [View](solutions/arrays/3131_find_the_integer_added_to_array_i.cpp) |
