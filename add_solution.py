@@ -17,8 +17,8 @@ file_path = os.path.join(dir_path, filename)
 template = f"""// ✅ Problem: {name}
 // 🔗 Link: {link}
 // 🗂 Topic: {topic}
-// ⏱ Time Complexity: O(.)
-// 💾 Space Complexity: O(.)
+// ⏱ Time Complexity: O()
+// 💾 Space Complexity: O()
 // 🧠 Approach: 
 
 #include <iostream>
