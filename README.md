@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-86%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-87%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-26 | Find Indices of Stable Mountains | arrays | C++ | [View](solutions/arrays/3285_find_indices_of_stable_mountains.cpp) |
 | 2025-09-25 | Kids With the Greatest Number of Candies | arrays | C++ | [View](solutions/arrays/1431_kids_with_the_greatest_number_of_candies.cpp) |
 | 2025-09-24 | Count Elements With Maximum Frequency | hash_table | C++ | [View](solutions/hash_table/3005_count_elements_with_maximum_frequency.cpp) |
 | 2025-09-23 | Sort Array by Increasing Frequency | hash_table | C++ | [View](solutions/hash_table/1636_sort_array_by_increasing_frequency.cpp) |
