@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-88%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-89%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-09-30 | Smallest Index With Digit Sum Equal to Index | arrays | C++ | [View](solutions/arrays/3550_smallest_index_with_digit_sum_equal_to_index.cpp) |
 | 2025-09-28 | Earliest Time to Finish One Task | arrays | C++ | [View](solutions/arrays/3683_earliest_time_to_finish_one_task.cpp) |
 | 2025-09-26 | Find Indices of Stable Mountains | arrays | C++ | [View](solutions/arrays/3285_find_indices_of_stable_mountains.cpp) |
 | 2025-09-25 | Kids With the Greatest Number of Candies | arrays | C++ | [View](solutions/arrays/1431_kids_with_the_greatest_number_of_candies.cpp) |
