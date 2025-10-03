@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-91%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-92%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-03 | Minimum Operations to Exceed Threshold Value I | arrays | C++ | [View](solutions/arrays/3065_minimum_operations_to_exceed_threshold_value_i.cpp) |
 | 2025-10-02 | Find Numbers with Even Number of Digits | arrays | C++ | [View](solutions/arrays/1295_find_numbers_with_even_number_of_digits.cpp) |
 | 2025-10-01 | Find if Digit Game Can Be Won | arrays | C++ | [View](solutions/arrays/3232_find_if_digit_game_can_be_won.cpp) |
 | 2025-09-30 | Smallest Index With Digit Sum Equal to Index | arrays | C++ | [View](solutions/arrays/3550_smallest_index_with_digit_sum_equal_to_index.cpp) |
