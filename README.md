@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2025-10-08 | Maximum Difference Between Adjacent Elements in a Circular Array | arrays | C++ | [View](solutions/arrays/Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.cpp) |
+| 2025-10-08 | Maximum Difference Between Adjacent Elements in a Circular Array | arrays | C++ | [View](solutions/arrays/3424_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.cpp) |
 | 2025-10-07 | Find N Unique Integers Sum up to Zero | arrays | C++ | [View](solutions/arrays/1304_find_n_unique_integers_sum_up_to_zero.cpp) |
 | 2025-10-06 | Left and Right Sum Differences | arrays | C++ | [View](solutions/arrays/2574_left_and_right_sum_differences.cpp) |
 | 2025-10-05 | Maximum Sum With Exactly K Elements  | arrays | C++ | [View](solutions/arrays/2656_maximum_sum_with_exactly_k_elements_.cpp) |
