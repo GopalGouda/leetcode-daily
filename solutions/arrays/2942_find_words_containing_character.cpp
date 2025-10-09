@@ -2,7 +2,7 @@
 // 🔗 Link: https://leetcode.com/problems/find-words-containing-character/description/?envType=problem-list-v2&envId=n8ahh1k5
 // 🗂 Topic: arrays
 // ⏱ Time Complexity: O(N*K)
-// 💾 Space Complexity: O()
+// 💾 Space Complexity: O(N)
 // 🧠 Approach: 
 
 #include <iostream>
@@ -13,12 +13,18 @@ using namespace std;
 class Solution {
 public:
     vector<int> findWordsContaining(vector<string>& words, char x) {
-            vector<int> result;
+    vector<int> result;
     for (int i = 0; i < words.size(); i++) {
-        if (words[i].find(x) != string::npos) {
-            result.push_back(i);
+        bool found = false;
+        for (char c : words[i]) {
+            if (c == x) {
+                found = true;
+                break;  // no need to check further in this word
+            }
         }
+        if (found) result.push_back(i);
     }
+    
     return result;
     }
 };
