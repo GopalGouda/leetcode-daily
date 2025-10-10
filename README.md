@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-98%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-99%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-10 | Minimum Cost to Reach Every Position | arrays | C++ | [View](solutions/arrays/3502_minimum_cost_to_reach_every_position.cpp) |
 | 2025-10-09 | Find Words Containing Character | arrays | C++ | [View](solutions/arrays/2942_find_words_containing_character.cpp) |
 | 2025-10-08 | Maximum Difference Between Adjacent Elements in a Circular Array | arrays | C++ | [View](solutions/arrays/3424_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.cpp) |
 | 2025-10-07 | Find N Unique Integers Sum up to Zero | arrays | C++ | [View](solutions/arrays/1304_find_n_unique_integers_sum_up_to_zero.cpp) |
