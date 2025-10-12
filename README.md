@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-100%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-101%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-12 | Replace Elements with Greatest Element on Right Side | arrays | C++ | [View](solutions/arrays/1299_replace_elements_with_greatest_element_on_right_side.cpp) |
 | 2025-10-11 | Maximum Number of Words Found in Sentences | arrays | C++ | [View](solutions/arrays/2114_maximum_number_of_words_found_in_sentences.cpp) |
 | 2025-10-10 | Minimum Cost to Reach Every Position | arrays | C++ | [View](solutions/arrays/3502_minimum_cost_to_reach_every_position.cpp) |
 | 2025-10-09 | Find Words Containing Character | arrays | C++ | [View](solutions/arrays/2942_find_words_containing_character.cpp) |
