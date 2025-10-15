@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-103%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-104%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-15 | Count Items Matching a Rule | arrays | C++ | [View](solutions/arrays/1773_count_items_matching_a_rule.cpp) |
 | 2025-10-14 | Sum of Good Numbers | arrays | C++ | [View](solutions/arrays/3452_sum_of_good_numbers.cpp) |
 | 2025-10-13 | Sign of the Product of an Array | arrays | C++ | [View](solutions/arrays/1822_sign_of_the_product_of_an_array.cpp) |
 | 2025-10-12 | Replace Elements with Greatest Element on Right Side | arrays | C++ | [View](solutions/arrays/1299_replace_elements_with_greatest_element_on_right_side.cpp) |
@@ -141,4 +142,4 @@ Tracking my daily problem-solving journey in C++.
 - [Bit_Manipulation](solutions/bit_manipulation/)
 - [Hash_Table](solutions/hash_table/)
 
-# Great job Gopal🫡
+Great job Gopal 🫡
