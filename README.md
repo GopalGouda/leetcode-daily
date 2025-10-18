@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-106%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-107%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-18 | Maximum Difference Between Increasing Elements | arrays | C++ | [View](solutions/arrays/2016_maximum_difference_between_increasing_elements.cpp) |
 | 2025-10-17 | Number of Students Doing Homework at a Given Time | arrays | C++ | [View](solutions/arrays/1450_number_of_students_doing_homework_at_a_given_time.cpp) |
 | 2025-10-16 | Neither Minimum nor Maximum | arrays | C++ | [View](solutions/arrays/2733_neither_minimum_nor_maximum.cpp) |
 | 2025-10-15 | Count Items Matching a Rule | arrays | C++ | [View](solutions/arrays/1773_count_items_matching_a_rule.cpp) |
