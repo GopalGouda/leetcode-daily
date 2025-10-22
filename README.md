@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-110%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-111%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-22 | Find the Peaks | arrays | C++ | [View](solutions/arrays/2951_find_the_peaks.cpp) |
 | 2025-10-21 | Smallest Range I | arrays | C++ | [View](solutions/arrays/908_smallest_range_i.cpp) |
 | 2025-10-20 | Find the Sum of Encrypted Integers | arrays | C++ | [View](solutions/arrays/3079_find_the_sum_of_encrypted_integers.cpp) |
 | 2025-10-19 | Smallest Index With Equal Value | arrays | C++ | [View](solutions/arrays/2057_smallest_index_with_equal_value.cpp) |
