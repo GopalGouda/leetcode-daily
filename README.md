@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-113%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-114%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-25 | Mean of Array After Removing Some Elements | arrays | C++ | [View](solutions/arrays/1619_mean_of_array_after_removing_some_elements.cpp) |
 | 2025-10-24 | Count Hills and Valleys in an Array | arrays | C++ | [View](solutions/arrays/2210_count_hills_and_valleys_in_an_array.cpp) |
 | 2025-10-23 | Three Consecutive Odds | arrays | C++ | [View](solutions/arrays/1550_three_consecutive_odds.cpp) |
 | 2025-10-22 | Find the Peaks | arrays | C++ | [View](solutions/arrays/2951_find_the_peaks.cpp) |
