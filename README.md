@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-115%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-116%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-27 | Decompress Run-Length Encoded List | arrays | C++ | [View](solutions/arrays/1313_decompress_run-length_encoded_list.cpp) |
 | 2025-10-26 | Minimum Sum of Mountain Triplets I | arrays | C++ | [View](solutions/arrays/2908_minimum_sum_of_mountain_triplets_i.cpp) |
 | 2025-10-25 | Mean of Array After Removing Some Elements | arrays | C++ | [View](solutions/arrays/1619_mean_of_array_after_removing_some_elements.cpp) |
 | 2025-10-24 | Count Hills and Valleys in an Array | arrays | C++ | [View](solutions/arrays/2210_count_hills_and_valleys_in_an_array.cpp) |
