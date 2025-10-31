@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-119%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-120%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-10-31 | Minimum Absolute Difference | Sorting | C++ | [View](solutions/sorting/1200_minimum_absolute_difference.cpp) |
 | 2025-10-30 | Max Consecutive Ones | arrays | C++ | [View](solutions/arrays/485_max_consecutive_ones.cpp) |
 | 2025-10-29 | Average Value of Even Numbers That Are Divisible by Three | arrays | C++ | [View](solutions/arrays/2455_average_value_of_even_numbers_that_are_divisible_by_three.cpp) |
 | 2025-10-28 | Maximum Ascending Subarray Sum | arrays | C++ | [View](solutions/arrays/1800_maximum_ascending_subarray_sum.cpp) |
