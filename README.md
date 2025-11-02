@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-121%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-122%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-02 | Check If Two String Arrays are Equivalent | string | C++ | [View](solutions/string/1662_check_if_two_string_arrays_are_equivalent.cpp) |
 | 2025-11-01 | Check if a String Is an Acronym of Words | string | C++ | [View](solutions/string/2828_check_if_a_string_is_an_acronym_of_words.cpp) |
 | 2025-10-31 | Minimum Absolute Difference | Sorting | C++ | [View](solutions/sorting/1200_minimum_absolute_difference.cpp) |
 | 2025-10-30 | Max Consecutive Ones | arrays | C++ | [View](solutions/arrays/485_max_consecutive_ones.cpp) |
