@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-124%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-125%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-05 | Minimum Right Shifts to Sort the Array | arrays | C++ | [View](solutions/arrays/2855_minimum_right_shifts_to_sort_the_array.cpp) |
 | 2025-11-04 | Split Strings by Separator | string | C++ | [View](solutions/string/2788_split_strings_by_separator.cpp) |
 | 2025-11-03 | Longest Continuous Increasing Subsequence | arrays | C++ | [View](solutions/arrays/674_longest_continuous_increasing_subsequence.cpp) |
 | 2025-11-02 | Check If Two String Arrays are Equivalent | string | C++ | [View](solutions/string/1662_check_if_two_string_arrays_are_equivalent.cpp) |
