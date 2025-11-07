@@ -16,6 +16,7 @@ public:
         int n = nums.size();
         int breakIndex = -1;
         int count = 0;
+        
 
         // Find where the order breaks (nums[i] > nums[i+1])
         for (int i = 0; i < n - 1; ++i) {
