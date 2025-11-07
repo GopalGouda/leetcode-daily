@@ -1,7 +1,7 @@
 // ✅ Problem: Count Prefixes of a Given String
 // 🔗 Link: https://leetcode.com/problems/count-prefixes-of-a-given-string/description/?envType=problem-list-v2&envId=n8ahh1k5
 // 🗂 Topic: string
-// ⏱ Time Complexity: O(N*M)
+// ⏱ Time Complexity:  O(N*M)
 // 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
