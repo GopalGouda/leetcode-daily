@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-127%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-128%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-09 | Maximum Value of a String in an Array | string | C++ | [View](solutions/string/2496_maximum_value_of_a_string_in_an_array.cpp) |
 | 2025-11-08 | Delete Columns to Make Sorted | string | C++ | [View](solutions/string/944_delete_columns_to_make_sorted.cpp) |
 | 2025-11-07 | Count Prefixes of a Given String | string | C++ | [View](solutions/string/2255_count_prefixes_of_a_given_string.cpp) |
 | 2025-11-05 | Minimum Right Shifts to Sort the Array | arrays | C++ | [View](solutions/arrays/2855_minimum_right_shifts_to_sort_the_array.cpp) |
