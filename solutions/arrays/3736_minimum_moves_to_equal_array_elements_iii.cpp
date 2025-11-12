@@ -1,8 +1,8 @@
 // ✅ Problem: Minimum Moves to Equal Array Elements III
 // 🔗 Link: https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=problem-list-v2&envId=n8ahh1k5
 // 🗂 Topic: arrays
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
