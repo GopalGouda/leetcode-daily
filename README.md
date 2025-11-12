@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-130%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-131%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-12 | Minimum Moves to Equal Array Elements III | arrays | C++ | [View](solutions/arrays/3736_minimum_moves_to_equal_array_elements_iii.cpp) |
 | 2025-11-11 |  Number of Strings That Appear as Substrings in Word | string | C++ | [View](solutions/string/1967__number_of_strings_that_appear_as_substrings_in_word.cpp) |
 | 2025-11-10 | Truncate Sentence | string | C++ | [View](solutions/string/1816_truncate_sentence.cpp) |
 | 2025-11-09 | Maximum Value of a String in an Array | string | C++ | [View](solutions/string/2496_maximum_value_of_a_string_in_an_array.cpp) |
