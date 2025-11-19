@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-136%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-137%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-19 | Check Balanced String | string | C++ | [View](solutions/string/3340_check_balanced_string.cpp) |
 | 2025-11-17 | Reverse String | string | C++ | [View](solutions/string/344_reverse_string.cpp) |
 | 2025-11-16 | Element Appearing More Than 25% In Sorted Array | arrays | C++ | [View](solutions/arrays/1287_element_appearing_more_than_25%_in_sorted_array.cpp) |
 | 2025-11-15 | Matrix Diagonal Sum | Matrix | C++ | [View](solutions/matrix/1572_matrix_diagonal_sum.cpp) |
