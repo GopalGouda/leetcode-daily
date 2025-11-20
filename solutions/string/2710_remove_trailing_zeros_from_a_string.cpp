@@ -1,8 +1,8 @@
 // ✅ Problem: Remove Trailing Zeros From a String
 // 🔗 Link: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
