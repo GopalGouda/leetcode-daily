@@ -1,8 +1,8 @@
 // ✅ Problem: Minimum Number of Changes to Make Binary String Beautiful
 // 🔗 Link: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
