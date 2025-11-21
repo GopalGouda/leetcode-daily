@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-138%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-139%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-21 | Minimum Number of Changes to Make Binary String Beautiful | string | C++ | [View](solutions/string/2914_minimum_number_of_changes_to_make_binary_string_beautiful.cpp) |
 | 2025-11-20 | Remove Trailing Zeros From a String | string | C++ | [View](solutions/string/2710_remove_trailing_zeros_from_a_string.cpp) |
 | 2025-11-19 | Check Balanced String | string | C++ | [View](solutions/string/3340_check_balanced_string.cpp) |
 | 2025-11-17 | Reverse String | string | C++ | [View](solutions/string/344_reverse_string.cpp) |
