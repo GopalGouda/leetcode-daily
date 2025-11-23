@@ -1,8 +1,8 @@
 // ✅ Problem: Generate a String With Characters That Have Odd Counts
 // 🔗 Link: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
