@@ -1,8 +1,8 @@
 // ✅ Problem: Add Two Integers
 // 🔗 Link: https://leetcode.com/problems/add-two-integers/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
