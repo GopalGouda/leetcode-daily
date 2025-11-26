@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-143%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-144%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-11-26 | Number of Lines To Write String | string | C++ | [View](solutions/string/806_number_of_lines_to_write_string.cpp) |
 | 2025-11-25 | Delete Characters to Make Fancy String | string | C++ | [View](solutions/string/1957_delete_characters_to_make_fancy_string.cpp) |
 | 2025-11-24 | Add Two Integers | string | C++ | [View](solutions/string/2235_add_two_integers.cpp) |
 | 2025-11-23 | Generate a String With Characters That Have Odd Counts | string | C++ | [View](solutions/string/1374_generate_a_string_with_characters_that_have_odd_counts.cpp) |
