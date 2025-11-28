@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2025-11-28 | Reverse Words in a String III | stirng | C++ | [View](solutions/stirng/557_reverse_words_in_a_string_iii.cpp) |
+| 2025-11-28 | Reverse Words in a String III | stirng | C++ | [View](solutions/string/557_reverse_words_in_a_string_iii.cpp) |
 | 2025-11-27 | Largest 3-Same-Digit Number in String | string | C++ | [View](solutions/string/2264_largest_3-same-digit_number_in_string.cpp) |
 | 2025-11-26 | Number of Lines To Write String | string | C++ | [View](solutions/string/806_number_of_lines_to_write_string.cpp) |
 | 2025-11-25 | Delete Characters to Make Fancy String | string | C++ | [View](solutions/string/1957_delete_characters_to_make_fancy_string.cpp) |
