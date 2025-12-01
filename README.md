@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-148%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-149%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-01 | Find First Palindromic String in the Array | string | C++ | [View](solutions/string/2108_find_first_palindromic_string_in_the_array.cpp) |
 | 2025-11-30 | String Compression III | string | C++ | [View](solutions/string/3163_string_compression_iii.cpp) |
 | 2025-11-29 | Find the Original Typed String I | string | C++ | [View](solutions/string/3330_find_the_original_typed_string_i.cpp) |
 | 2025-11-28 | Reverse Words in a String III | stirng | C++ | [View](solutions/string/557_reverse_words_in_a_string_iii.cpp) |
