@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-150%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-151%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-03 | Score of a String | string | C++ | [View](solutions/string/3110_score_of_a_string.cpp) |
 | 2025-12-02 | Find the Maximum Achievable Number | maths | C++ | [View](solutions/maths/2769_find_the_maximum_achievable_number.cpp) |
 | 2025-12-01 | Find First Palindromic String in the Array | string | C++ | [View](solutions/string/2108_find_first_palindromic_string_in_the_array.cpp) |
 | 2025-11-30 | String Compression III | string | C++ | [View](solutions/string/3163_string_compression_iii.cpp) |
