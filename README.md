@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-152%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-153%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-05 | Divisible and Non-divisible Sums Difference | maths | C++ | [View](solutions/maths/2894_divisible_and_non-divisible_sums_difference.cpp) |
 | 2025-12-04 | Monotonic Array | arrays | C++ | [View](solutions/arrays/896_monotonic_array.cpp) |
 | 2025-12-03 | Score of a String | string | C++ | [View](solutions/string/3110_score_of_a_string.cpp) |
 | 2025-12-02 | Find the Maximum Achievable Number | maths | C++ | [View](solutions/maths/2769_find_the_maximum_achievable_number.cpp) |
