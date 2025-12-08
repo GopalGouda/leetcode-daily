@@ -1,8 +1,8 @@
 // ✅ Problem: Find Closest Person
 // 🔗 Link: https://leetcode.com/problems/find-closest-person/description/
 // 🗂 Topic: maths
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
