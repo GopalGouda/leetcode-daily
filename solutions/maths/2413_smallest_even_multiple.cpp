@@ -1,8 +1,8 @@
 // ✅ Problem: Smallest Even Multiple
 // 🔗 Link: https://leetcode.com/problems/smallest-even-multiple/description/
 // 🗂 Topic: maths
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
