@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-158%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-159%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-11 | Sum of Values at Indices With K Set Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/2859_sum_of_values_at_indices_with_k_set_bits.cpp) |
 | 2025-12-10 | Largest Number at least twice of others | arrays | C++ | [View](solutions/arrays/747_largest_number_at_least_twice_of_others.cpp) |
 | 2025-12-09 | Smallest Even Multiple | maths | C++ | [View](solutions/maths/2413_smallest_even_multiple.cpp) |
 | 2025-12-08 | Find Closest Person | maths | C++ | [View](solutions/maths/3516_find_closest_person.cpp) |
