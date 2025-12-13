@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-160%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-161%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-13 | Average Salary Excluding the Minimum and Maximum Salary | sorting | C++ | [View](solutions/sorting/1491_average_salary_excluding_the_minimum_and_maximum_salary.cpp) |
 | 2025-12-12 | Sum of Unique Elements | hash_table | C++ | [View](solutions/hash_table/1748_sum_of_unique_elements.cpp) |
 | 2025-12-11 | Sum of Values at Indices With K Set Bits | bit_manipulation | C++ | [View](solutions/bit_manipulation/2859_sum_of_values_at_indices_with_k_set_bits.cpp) |
 | 2025-12-10 | Largest Number at least twice of others | arrays | C++ | [View](solutions/arrays/747_largest_number_at_least_twice_of_others.cpp) |
