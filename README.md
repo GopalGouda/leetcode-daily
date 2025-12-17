@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-164%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-165%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-17 | 3Sum | sorting | C++ | [View](solutions/sorting/015_3sum.cpp) |
 | 2025-12-16 | Reverse Integer | maths | C++ | [View](solutions/maths/007_reverse_integer.cpp) |
 | 2025-12-15 | Defanging an IP Address | string | C++ | [View](solutions/string/1108_defanging_an_ip_address.cpp) |
 | 2025-12-14 | Merge Strings Alternately | string | C++ | [View](solutions/string/1768_merge_strings_alternately.cpp) |
