@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-167%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-168%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-20 | Convert Date to Binary | string | C++ | [View](solutions/string/3280_convert_date_to_binary.cpp) |
 | 2025-12-19 | Goal Parser Interpretation | string | C++ | [View](solutions/string/1678_goal_parser_interpretation.cpp) |
 | 2025-12-18 | Strictly Palindromic Number | maths | C++ | [View](solutions/maths/2396_strictly_palindromic_number.cpp) |
 | 2025-12-17 | 3Sum | sorting | C++ | [View](solutions/sorting/015_3sum.cpp) |
