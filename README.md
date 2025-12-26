@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-173%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-174%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-26 | Sum of Variable Length Subarrays | arrays | C++ | [View](solutions/arrays/3427_sum_of_variable_length_subarrays.cpp) |
 | 2025-12-25 | Find The Original Array of Prefix Xor | bit_manipulation | C++ | [View](solutions/bit_manipulation/2433_find_the_original_array_of_prefix_xor.cpp) |
 | 2025-12-24 | Sum Multiples | maths | C++ | [View](solutions/maths/2652_sum_multiples.cpp) |
 | 2025-12-23 | Count the Digits That Divide a Number | maths | C++ | [View](solutions/maths/2520_count_the_digits_that_divide_a_number.cpp) |
