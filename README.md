@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-175%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-176%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2025-12-28 | Mirror Distance of an Integer | maths | C++ | [View](solutions/maths/3783_mirror_distance_of_an_integer.cpp) |
 | 2025-12-27 | Minimum Average of Smallest and Largest Elements | maths | C++ | [View](solutions/maths/3194_minimum_average_of_smallest_and_largest_elements.cpp) |
 | 2025-12-26 | Sum of Variable Length Subarrays | arrays | C++ | [View](solutions/arrays/3427_sum_of_variable_length_subarrays.cpp) |
 | 2025-12-25 | Find The Original Array of Prefix Xor | bit_manipulation | C++ | [View](solutions/bit_manipulation/2433_find_the_original_array_of_prefix_xor.cpp) |
