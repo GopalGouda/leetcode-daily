@@ -1,8 +1,8 @@
 // ✅ Problem: Maximum 69 Number
 // 🔗 Link: https://leetcode.com/problems/maximum-69-number/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O(N)
-// 💾 Space Complexity: O(N)
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: Convert the number to a string, iterate through each character, and replace the first '6' with '9' to maximize the value.
 
 #include <iostream>
