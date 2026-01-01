@@ -1,10 +1,9 @@
 // ✅ Problem: Maximum 69 Number
 // 🔗 Link: https://leetcode.com/problems/maximum-69-number/description/
 // 🗂 Topic: string
-// ⏱ Time Complexity: O(1)
+// ⏱ Time Complexity: O(N^2)
 // 💾 Space Complexity: O(1)
-// 🧠 Approach: Convert the number to a string, iterate through each character, and replace the first '6' with '9' to maximize the value.
-
+// 🧠 Approach: 
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -12,15 +11,16 @@ using namespace std;
 
 class Solution {
 public:
-    int maximum69Number (int num) {
-        string s = to_string(num);
-        for (char &c : s) {
-            if (c == '6') {
-                c = '9';
-                break;
+    int numberOfPairs(vector<int>& nums1, vector<int>& nums2, int k) {
+        int count = 0;
+        for (int a : nums1) {
+            for (int b : nums2) {
+                if (a % (b * k) == 0) {
+                    count++;
+                }
             }
         }
-        return stoi(s);        
+        return count;        
     }
 };
 
