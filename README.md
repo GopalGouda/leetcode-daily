@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-180%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-181%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-02 | Count Partitions with Even Sum Difference | arrays | C++ | [View](solutions/arrays/3432_count_partitions_with_even_sum_difference.cpp) |
 | 2026-01-01 | Find the Number of Good Pairs I | arrays | C++ | [View](solutions/arrays/3162_find_the_number_of_good_pairs_i.cpp) |
 | 2025-12-31 | Find the Pivot Integer | maths | C++ | [View](solutions/maths/2485_find_the_pivot_integer.cpp) |
 | 2025-12-30 | Maximum 69 Number | string | C++ | [View](solutions/string/1323_maximum_69_number.cpp) |
