@@ -2,7 +2,7 @@
 // 🔗 Link: https://leetcode.com/problems/harshad-number/description/
 // 🗂 Topic: maths
 // ⏱ Time Complexity: O(N)
-// 💾 Space Complexity: O(1)
+// 💾 Space Complexity: O(N)
 // 🧠 Approach: 
 
 #include <iostream>
