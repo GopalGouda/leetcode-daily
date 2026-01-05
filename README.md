@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-183%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-184%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-05 | Sort the People | string | C++ | [View](solutions/string/2418_sort_the_people.cpp) |
 | 2026-01-04 | Sum of All Odd Length Subarrays | arrays | C++ | [View](solutions/arrays/1588_sum_of_all_odd_length_subarrays.cpp) |
 | 2026-01-03 | Harshad Number | maths | C++ | [View](solutions/maths/3099_harshad_number.cpp) |
 | 2026-01-02 | Count Partitions with Even Sum Difference | arrays | C++ | [View](solutions/arrays/3432_count_partitions_with_even_sum_difference.cpp) |
