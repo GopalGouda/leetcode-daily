@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-187%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-188%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-09 | Determine if String Halves Are Alike | string | C++ | [View](solutions/string/1740._determine_if_string_halves_are_alike.cpp) |
 | 2026-01-08 | Number of Senior Citizens | string | C++ | [View](solutions/string/2678_number_of_senior_citizens.cpp) |
 | 2026-01-07 | Check if Number is a Sum of Powers of Three | maths | C++ | [View](solutions/maths/1780_check_if_number_is_a_sum_of_powers_of_three.cpp) |
 | 2026-01-06 | Sorting the Sentence | string | C++ | [View](solutions/string/1859_sorting_the_sentence.cpp) |
