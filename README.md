@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-191%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-192%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-13 | Count Asterisks | string | C++ | [View](solutions/string/2315_count_asterisks.cpp) |
 | 2026-01-12 | Sort Vowels in a String | string | C++ | [View](solutions/string/2785_sort_vowels_in_a_string.cpp) |
 | 2026-01-11 | Sum of Digits in Base K | maths | C++ | [View](solutions/maths/1837_sum_of_digits_in_base_k.cpp) |
 | 2026-01-10 | Permutation Difference between Two Strings | string | C++ | [View](solutions/string/3146_permutation_difference_between_two_strings.cpp) |
