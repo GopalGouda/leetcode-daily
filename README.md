@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-194%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-195%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-16 | 1716 | maths | C++ | [View](solutions/maths/Calculate Money in Leetcode Bank_1716.cpp) |
 | 2026-01-15 | Self Dividing Numbers | maths | C++ | [View](solutions/maths/728_self_dividing_numbers.cpp) |
 | 2026-01-14 | A Number After a Double Reversal | maths | C++ | [View](solutions/maths/2119_a_number_after_a_double_reversal.cpp) |
 | 2026-01-13 | Count Asterisks | string | C++ | [View](solutions/string/2315_count_asterisks.cpp) |
