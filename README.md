@@ -29,7 +29,7 @@ Tracking my daily problem-solving journey in C++.
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
 | 2026-01-17 | Remove Palindromic Subsequences | string | C++ | [View](solutions/string/1332_remove_palindromic_subsequences.cpp) |
-| 2026-01-16 | 1716 | maths | C++ | [View](solutions/maths/Calculate Money in Leetcode Bank_1716.cpp) |
+| 2026-01-16 | 1716 | maths | C++ | [View](solutions/maths/Calculate_Money_in_Leetcode_Bank_1716.cpp) |
 | 2026-01-15 | Self Dividing Numbers | maths | C++ | [View](solutions/maths/728_self_dividing_numbers.cpp) |
 | 2026-01-14 | A Number After a Double Reversal | maths | C++ | [View](solutions/maths/2119_a_number_after_a_double_reversal.cpp) |
 | 2026-01-13 | Count Asterisks | string | C++ | [View](solutions/string/2315_count_asterisks.cpp) |
