@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-196%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-197%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-18 | Minimum Operations to Make Array Equal | maths | C++ | [View](solutions/maths/1551_minimum_operations_to_make_array_equal.cpp) |
 | 2026-01-17 | Remove Palindromic Subsequences | string | C++ | [View](solutions/string/1332_remove_palindromic_subsequences.cpp) |
 | 2026-01-16 | 1716 | maths | C++ | [View](solutions/maths/Calculate_Money_in_Leetcode_Bank_1716.cpp) |
 | 2026-01-15 | Self Dividing Numbers | maths | C++ | [View](solutions/maths/728_self_dividing_numbers.cpp) |
