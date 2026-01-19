@@ -1,8 +1,8 @@
 // ✅ Problem: Count of Matches in Tournament
 // 🔗 Link: https://leetcode.com/problems/count-of-matches-in-tournament/description/
 // 🗂 Topic: maths
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
@@ -12,7 +12,9 @@ using namespace std;
 
 class Solution {
 public:
-    // Your code here
+    int numberOfMatches(int n) {
+        return n-1;
+    }
 };
 
 int main() {
