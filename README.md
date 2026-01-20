@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-198%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-199%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-20 | Replace All Digits with Characters | string | C++ | [View](solutions/string/1844_replace_all_digits_with_characters.cpp) |
 | 2026-01-19 | Count of Matches in Tournament | maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
 | 2026-01-18 | Minimum Operations to Make Array Equal | maths | C++ | [View](solutions/maths/1551_minimum_operations_to_make_array_equal.cpp) |
 | 2026-01-17 | Remove Palindromic Subsequences | string | C++ | [View](solutions/string/1332_remove_palindromic_subsequences.cpp) |
