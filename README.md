@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-200%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-201%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-22 | Restore Finishing Order | hash_table | C++ | [View](solutions/hash_table/3668_restore_finishing_order.cpp) |
 | 2026-01-21 | Check if All A's Appears Before All B's | string | C++ | [View](solutions/string/2124_check_if_all_a's_appears_before_all_b's.cpp) |
 | 2026-01-20 | Replace All Digits with Characters | string | C++ | [View](solutions/string/1844_replace_all_digits_with_characters.cpp) |
 | 2026-01-19 | Count of Matches in Tournament | maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
