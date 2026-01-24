@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-202%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-203%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-24 | Hexadecimal and Hexatrigesimal Conversion | string | C++ | [View](solutions/string/3602_hexadecimal_and_hexatrigesimal_conversion.cpp) |
 | 2026-01-23 | Minimum Number of Operations to Move All Balls to Each Box | string | C++ | [View](solutions/string/1769_minimum_number_of_operations_to_move_all_balls_to_each_box.cpp) |
 | 2026-01-22 | Restore Finishing Order | hash_table | C++ | [View](solutions/hash_table/3668_restore_finishing_order.cpp) |
 | 2026-01-21 | Check if All A's Appears Before All B's | string | C++ | [View](solutions/string/2124_check_if_all_a's_appears_before_all_b's.cpp) |
