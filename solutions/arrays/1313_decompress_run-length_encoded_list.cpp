@@ -1,7 +1,7 @@
 // ✅ Problem: Decompress Run-Length Encoded List
-// 🔗 Link: https://leetcode.com/problems/decompress-run-length-encoded-list/description/?envType=problem-list-v2&envId=n8ahh1k5
+// 🔗 Link: https://leetcode.com/problems/decompress-run-length-encoded-list/description/
 // 🗂 Topic: arrays
-// ⏱ Time Complexity: O(N+M)
+// ⏱ Time Complexity: O(N)
 // 💾 Space Complexity: O(N)
 // 🧠 Approach: 
 
@@ -13,14 +13,18 @@ using namespace std;
 class Solution {
 public:
     vector<int> decompressRLElist(vector<int>& nums) {
-        vector <int> ans;
+  vector<int> result;
 
-        for(int i=0; i<nums.size()-1; i=i+2){
-            int freq=nums[i];
-            int val=nums[i+1];
-            ans.insert(ans.end(), freq, val);
+        for (int i = 0; i < nums.size(); i += 2) {
+            int freq = nums[i];
+            int val  = nums[i + 1];
+
+            for (int j = 0; j < freq; j++) {
+                result.push_back(val);
+            }
         }
-        return ans;
+
+        return result;        
     }
 };
 
