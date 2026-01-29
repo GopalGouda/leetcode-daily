@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-207%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-208%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-01-29 | Is Object Empty | object | C++ | [View](solutions/object/2727_is_object_empty.cpp) |
 | 2026-01-28 | Find the Highest Altitude | arrays | C++ | [View](solutions/arrays/1732_find_the_highest_altitude.cpp) |
 | 2026-01-27 | Decompress Run-Length Encoded List | arrays | C++ | [View](solutions/arrays/1313_decompress_run-length_encoded_list.cpp) |
 | 2026-01-26 | Absolute Difference Between Maximum and Minimum K Elements | sorting | C++ | [View](solutions/sorting/3774_absolute_difference_between_maximum_and_minimum_k_elements.cpp) |
