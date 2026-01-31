@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2026-01-31 | Chunk Array | arrays | C++ | [View](solutions/arrays/2677_chunk_array.cpp) |
+| 2026-01-31 | Chunk Array | arrays | C++ | [View](solutions/arrays/2677_chunk_array.js) |
 | 2026-01-30 | Calculate Delayed Arrival Time | maths | C++ | [View](solutions/maths/2651_calculate_delayed_arrival_time.cpp) |
 | 2026-01-29 | Is Object Empty | object | C++ | [View](solutions/object/2727_is_object_empty.cpp) |
 | 2026-01-28 | Find the Highest Altitude | arrays | C++ | [View](solutions/arrays/1732_find_the_highest_altitude.cpp) |
