@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-210%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-211%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-01 | sleep | basic javascript | C++ | [View](solutions/basic javascript/2621_sleep.cpp) |
 | 2026-01-31 | Chunk Array | arrays | C++ | [View](solutions/arrays/2677_chunk_array.js) |
 | 2026-01-30 | Calculate Delayed Arrival Time | maths | C++ | [View](solutions/maths/2651_calculate_delayed_arrival_time.cpp) |
 | 2026-01-29 | Is Object Empty | object | C++ | [View](solutions/object/2727_is_object_empty.cpp) |
