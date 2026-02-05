@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-05 | Reverse String Prefix | string | C++ | [View](solutions/string/3794_reverse_string_prefix.cpp) |
 | 2026-02-04 | Number of Changing Keys | string | C++ | [View](solutions/string/3019_number_of_changing_keys.cpp) |
 | 2026-02-03 | Count Symmetric Integers | string | C++ | [View](solutions/string/2843_count_symmetric_integers.cpp) |
 | 2026-02-02 | base 7 | string | C++ | [View](solutions/string/504_base_7.cpp) |
