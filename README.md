@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-215%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-216%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-06 | Compute Alternating Sum | arrays | C++ | [View](solutions/arrays/3710_compute_alternating_sum.cpp) |
 | 2026-02-05 | Reverse String Prefix | string | C++ | [View](solutions/string/3794_reverse_string_prefix.cpp) |
 | 2026-02-04 | Number of Changing Keys | string | C++ | [View](solutions/string/3019_number_of_changing_keys.cpp) |
 | 2026-02-03 | Count Symmetric Integers | string | C++ | [View](solutions/string/2843_count_symmetric_integers.cpp) |
