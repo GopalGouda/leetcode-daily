@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-219%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-220%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-10 | Decrypt String from Alphabet to Integer Mapping | string | C++ | [View](solutions/string/1309_decrypt_string_from_alphabet_to_integer_mapping.cpp) |
 | 2026-02-09 | Unique Number of Occurrences | hash_table | C++ | [View](solutions/hash_table/1207_unique_number_of_occurrences.cpp) |
 | 2026-02-08 | Power of Three | maths | C++ | [View](solutions/maths/362_power_of_three.cpp) |
 | 2026-02-07 | Maximum Odd Binary Number | string | C++ | [View](solutions/string/2864_maximum_odd_binary_number.cpp) |
