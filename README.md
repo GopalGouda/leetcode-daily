@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-221%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-222%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-12 | Counter | basic_javascript | JavaScript | [View](solutions/basic_javascript/2620_counter.js) |
 | 2026-02-11 | Minimum Number of Operations to Make Array XOR Equal to K | bit_manipulation | C++ | [View](solutions/bit_manipulation/2997_minimum_number_of_operations_to_make_array_xor_equal_to_k.cpp) |
 | 2026-02-10 | Decrypt String from Alphabet to Integer Mapping | string | C++ | [View](solutions/string/1309_decrypt_string_from_alphabet_to_integer_mapping.cpp) |
 | 2026-02-09 | Unique Number of Occurrences | hash_table | C++ | [View](solutions/hash_table/1207_unique_number_of_occurrences.cpp) |
@@ -38,8 +39,8 @@ Tracking my daily problem-solving journey in C++.
 | 2026-02-04 | Number of Changing Keys | string | C++ | [View](solutions/string/3019_number_of_changing_keys.cpp) |
 | 2026-02-03 | Count Symmetric Integers | string | C++ | [View](solutions/string/2843_count_symmetric_integers.cpp) |
 | 2026-02-02 | base 7 | string | C++ | [View](solutions/string/504_base_7.cpp) |
-| 2026-02-01 | sleep | basic javascript | C++ | [View](solutions/basic_javascript/2621_sleep.js) |
-| 2026-01-31 | Chunk Array | arrays | C++ | [View](solutions/arrays/2677_chunk_array.js) |
+| 2026-02-01 | sleep | basic javascript | JavaScript | [View](solutions/basic_javascript/2621_sleep.js) |
+| 2026-01-31 | Chunk Array | arrays | JavaScript | [View](solutions/arrays/2677_chunk_array.js) |
 | 2026-01-30 | Calculate Delayed Arrival Time | maths | C++ | [View](solutions/maths/2651_calculate_delayed_arrival_time.cpp) |
 | 2026-01-29 | Is Object Empty | object | C++ | [View](solutions/object/2727_is_object_empty.cpp) |
 | 2026-01-28 | Find the Highest Altitude | arrays | C++ | [View](solutions/arrays/1732_find_the_highest_altitude.cpp) |
