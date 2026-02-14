@@ -1,8 +1,8 @@
 // ✅ Problem: Counter II
 // 🔗 Link: https://leetcode.com/problems/counter-ii/submissions/1919296237/
 // 🗂 Topic: basic_javascript
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 /**
