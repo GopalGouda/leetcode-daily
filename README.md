@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-223%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-224%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-14 | Counter II | basic_javascript | C++ | [View](solutions/basic_javascript/2665_counter_ii.cpp) |
 | 2026-02-13 | Find the Key of the Numbers | string | C++ | [View](solutions/string/3270_find_the_key_of_the_numbers.cpp) |
 | 2026-02-12 | Counter | basic_javascript | JavaScript | [View](solutions/basic_javascript/2620_counter.js) |
 | 2026-02-11 | Minimum Number of Operations to Make Array XOR Equal to K | bit_manipulation | C++ | [View](solutions/bit_manipulation/2997_minimum_number_of_operations_to_make_array_xor_equal_to_k.cpp) |
