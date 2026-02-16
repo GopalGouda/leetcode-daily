@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-225%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-226%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-16 | Construct the Minimum Bitwise Array I | bit_manipulation | C++ | [View](solutions/bit_manipulation/3314_construct_the_minimum_bitwise_array_i.cpp) |
 | 2026-02-15 | Determine Color of a Chessboard Square | maths | C++ | [View](solutions/maths/1812_determine_color_of_a_chessboard_square.cpp) |
 | 2026-02-14 | Counter II | basic_javascript | JavaScript | [View](solutions/basic_javascript/2665_counter_ii.js) |
 | 2026-02-13 | Find the Key of the Numbers | string | C++ | [View](solutions/string/3270_find_the_key_of_the_numbers.cpp) |
