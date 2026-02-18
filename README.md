@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-227%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-228%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-18 | Generate Fibonacci Sequence | basic_javascript | JavaScript | [View](solutions/basic_javascript/2648_generate_fibonacci_sequence.js) |
 | 2026-02-17 | Find Most Frequent Vowel and Consonant | string | C++ | [View](solutions/string/3541_find_most_frequent_vowel_and_consonant.cpp) |
 | 2026-02-16 | Construct the Minimum Bitwise Array I | bit_manipulation | C++ | [View](solutions/bit_manipulation/3314_construct_the_minimum_bitwise_array_i.cpp) |
 | 2026-02-15 | Determine Color of a Chessboard Square | maths | C++ | [View](solutions/maths/1812_determine_color_of_a_chessboard_square.cpp) |
