@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-229%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-230%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-20 | Keep Multiplying Found Values by Two | arrays | C++ | [View](solutions/arrays/2154_keep_multiplying_found_values_by_two.cpp) |
 | 2026-02-19 | GCD of Odd and Even Sums | maths | C++ | [View](solutions/maths/3658_gcd_of_odd_and_even_sums.cpp) |
 | 2026-02-18 | Generate Fibonacci Sequence | basic_javascript | JavaScript | [View](solutions/basic_javascript/2648_generate_fibonacci_sequence.js) |
 | 2026-02-17 | Find Most Frequent Vowel and Consonant | string | C++ | [View](solutions/string/3541_find_most_frequent_vowel_and_consonant.cpp) |
