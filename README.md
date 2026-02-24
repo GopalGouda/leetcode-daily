@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-233%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-234%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-24 | Keyboard Row question solved | Hash Table | C++ | [View](solutions/hash_table/500_keyboard_row_question_solved.cpp) |
 | 2026-02-23 | Check if Word Equals Summation of Two Words | string | C++ | [View](solutions/string/1880_check_if_word_equals_summation_of_two_words.cpp) |
 | 2026-02-22 | Shortest Distance to a Character | arrays | C++ | [View](solutions/arrays/821_shortest_distance_to_a_character.cpp) |
 | 2026-02-21 | Array Reduce Transformation | basic_javascript | javascript | [View](solutions/basic_javascript/2626_array_reduce_transformation.js) |
