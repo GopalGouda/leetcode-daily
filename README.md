@@ -66,7 +66,7 @@ Tracking my daily problem-solving journey in C++.
 | 2026-01-22 | Restore Finishing Order | hash_table | C++ | [View](solutions/hash_table/3668_restore_finishing_order.cpp) |
 | 2026-01-21 | Check if All A's Appears Before All B's | string | C++ | [View](solutions/string/2124_check_if_all_a's_appears_before_all_b's.cpp) |
 | 2026-01-20 | Replace All Digits with Characters | string | C++ | [View](solutions/string/1844_replace_all_digits_with_characters.cpp) |
-| 2026-01-19 | Count of Matches in Tournament | maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
+| 2026-01-19 | Count of Matches in Tournament | Maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
 | 2026-01-18 | Minimum Operations to Make Array Equal | maths | C++ | [View](solutions/maths/1551_minimum_operations_to_make_array_equal.cpp) |
 | 2026-01-17 | Remove Palindromic Subsequences | string | C++ | [View](solutions/string/1332_remove_palindromic_subsequences.cpp) |
 | 2026-01-16 | 1716 | maths | C++ | [View](solutions/maths/Calculate_Money_in_Leetcode_Bank_1716.cpp) |
