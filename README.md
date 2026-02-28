@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-236%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-237%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-02-28 | Convert Binary Number in a Linked List to Integer | Linked_List | C++ | [View](solutions/linked_list/1290_convert_binary_number_in_a_linked_list_to_integer.cpp) |
 | 2026-02-26 | Running Sum of 1d Array | arrays | C++ | [View](solutions/arrays/1480_running_sum_of_1d_array.cpp) |
 | 2026-02-25 | Divide Array Into Arrays With Max Difference | arrays | C++ | [View](solutions/arrays/2966_divide_array_into_arrays_with_max_difference.cpp) |
 | 2026-02-24 | Keyboard Row question solved | Hash Table | C++ | [View](solutions/hash_table/500_keyboard_row_question_solved.cpp) |
