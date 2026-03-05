@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-241%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-242%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-05 | Goat Latin | sorting | C++ | [View](solutions/sorting/824_goat_latin.cpp) |
 | 2026-03-04 | Ugly Number | maths | C++ | [View](solutions/maths/263_ugly_number.cpp) |
 | 2026-03-03 | Sort By | basic_javascript | JavaScript | [View](solutions/basic_javascript/2724_sort_by.js) |
 | 2026-03-02 | Widest Vertical Area Between Two Points Containing No Points | Sorting | C++ | [View](solutions/sorting/1637_widest_vertical_area_between_two_points_containing_no_points.cpp) |
