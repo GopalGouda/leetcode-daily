@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-243%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-244%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-07 | Is Subsequence | two pointers | C++ | [View](solutions/two pointers/392_is_subsequence.cpp) |
 | 2026-03-06 | Snake in Matrix | matrix | C++ | [View](solutions/matrix/3248_snake_in_matrix.cpp) |
 | 2026-03-05 | Goat Latin | sorting | C++ | [View](solutions/sorting/824_goat_latin.cpp) |
 | 2026-03-04 | Ugly Number | maths | C++ | [View](solutions/maths/263_ugly_number.cpp) |
