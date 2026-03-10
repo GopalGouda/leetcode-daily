@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-246%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-248%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,8 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-10 | Maximum Number of Words You Can Type | hash_table | C++ | [View](solutions/hash_table/1935_maximum_number_of_words_you_can_type.cpp) |
+| 2026-03-10 | Count of Matches in Tournament | maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
 | 2026-03-09 | Jewels and Stones | hash_table | C++ | [View](solutions/hash_table/771_jewels_and_stones.cpp) |
 | 2026-03-08 | Add Two Promises | basic_javascript | javascript | [View](solutions/basic_javascrpit/2723_add_two_promises.js) |
 | 2026-03-07 | Is Subsequence | two pointers | C++ | [View](solutions/two_pointers/392_is_subsequence.cpp) |
