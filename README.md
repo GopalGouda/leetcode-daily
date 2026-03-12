@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2026-03-12 | Allow One Function Call | basic_javascript | C++ | [View](solutions/basic_javascript/2666_allow_one_function_call.cpp) |
+| 2026-03-12 | Allow One Function Call | basic_javascript | Javascript | [View](solutions/basic_javascript/2666_allow_one_function_call.cpp) |
 | 2026-03-11 | Apply Transform Over Each Element in Array | basic_javascript | C++ | [View](solutions/basic_javascript/2635_apply_transform_over_each_element_in_array.cpp) |
 | 2026-03-10 | Maximum Number of Words You Can Type | hash_table | C++ | [View](solutions/hash_table/1935_maximum_number_of_words_you_can_type.cpp) |
 | 2026-03-10 | Count of Matches in Tournament | maths | C++ | [View](solutions/maths/1688_count_of_matches_in_tournament.cpp) |
