@@ -1,0 +1,29 @@
+// ✅ Problem: Allow One Function Call
+// 🔗 Link: https://leetcode.com/problems/allow-one-function-call/description/
+// 🗂 Topic: basic_javascript
+// ⏱ Time Complexity: O(1)
+// 💾 Space Complexity: O(1)
+// 🧠 Approach: 
+
+/**
+ * @param {Function} fn
+ * @return {Function}
+ */
+var once = function(fn) {
+    let called = false;
+
+    return function(...args) {
+        if (!called) {
+            called = true;
+            return fn(...args);
+        }
+        return undefined;
+    };
+};
+/**
+ * let fn = (a,b,c) => (a + b + c)
+ * let onceFn = once(fn)
+ *
+ * onceFn(1,2,3); // 6
+ * onceFn(2,3,6); // returns undefined without calling fn
+ */
