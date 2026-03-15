@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-251%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-252%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-15 | Sort Array By Parity | sorting | C++ | [View](solutions/sorting/905_sort_array_by_parity.cpp) |
 | 2026-03-13 | Shuffle the Array | arrays | C++ | [View](solutions/arrays/1470_shuffle_the_array.cpp) |
 | 2026-03-12 | Allow One Function Call | basic_javascript | Javascript | [View](solutions/basic_javascript/2666_allow_one_function_call.js) |
 | 2026-03-11 | Apply Transform Over Each Element in Array | basic_javascript | C++ | [View](solutions/basic_javascript/2635_apply_transform_over_each_element_in_array.cpp) |
