@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-254%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-255%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-18 | Roman to Integer | hash_table | C++ | [View](solutions/hash_table/013_roman_to_integer.cpp) |
 | 2026-03-17 | Nested Array Generator | basic_javascript | javascript | [View](solutions/basic_javascript/2649_nested_array_generator.js) |
 | 2026-03-16 | Minimum Time to Type Word Using Special Typewriter | greedy | C++ | [View](solutions/greedy/1794_minimum_time_to_type_word_using_special_typewriter.cpp) |
 | 2026-03-15 | Sort Array By Parity | sorting | C++ | [View](solutions/sorting/905_sort_array_by_parity.cpp) |
