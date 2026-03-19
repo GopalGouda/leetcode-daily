@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-19 | Sum of Squares of Special Elements | Arrays | C++ | [View](solutions/arrays/2778_Sum_of_Squares_of_Special_Elements.cpp) |
 | 2026-03-18 | Roman to Integer | hash_table | C++ | [View](solutions/hash_table/013_roman_to_integer.cpp) |
 | 2026-03-17 | Nested Array Generator | basic_javascript | javascript | [View](solutions/basic_javascript/2649_nested_array_generator.js) |
 | 2026-03-16 | Minimum Time to Type Word Using Special Typewriter | greedy | C++ | [View](solutions/greedy/1794_minimum_time_to_type_word_using_special_typewriter.cpp) |
