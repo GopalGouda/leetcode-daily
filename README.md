@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-259%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-260%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-23 | Lucky Numbers in a Matrix | matrix | C++ | [View](solutions/matrix/1380_lucky_numbers_in_a_matrix.cpp) |
 | 2026-03-22 | Function Composition | basic_javascript | C++ | [View](solutions/basic_javascript/2629_function_composition.js) |
 | 2026-03-21 | Reverse Vowels of a String | two_pointers | C++ | [View](solutions/two_pointers/345_reverse_vowels_of_a_string.cpp) |
 | 2026-03-20 | Maximum Number of Coins You Can Get | greedy | C++ | [View](solutions/greedy/1561_maximum_number_of_coins_you_can_get.cpp) |
