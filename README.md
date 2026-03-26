@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-262%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-263%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-26 | Maximum Substrings With Distinct Start | hash_table | C++ | [View](solutions/hash_table/3760_maximum_substrings_with_distinct_start.cpp) |
 | 2026-03-25 | Partitioning Into Minimum Number Of Deci-Binary Numbers | string | C++ | [View](solutions/string/1689_partitioning_into_minimum_number_of_deci-binary_numbers.cpp) |
 | 2026-03-24 | First Missing Positive | hash_table | C++ | [View](solutions/hash_table/041_first_missing_positive.cpp) |
 | 2026-03-23 | Lucky Numbers in a Matrix | matrix | C++ | [View](solutions/matrix/1380_lucky_numbers_in_a_matrix.cpp) |
