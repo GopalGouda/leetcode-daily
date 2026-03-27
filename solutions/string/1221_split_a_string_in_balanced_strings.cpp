@@ -1,8 +1,8 @@
 // ✅ Problem: Split a String in Balanced Strings
 // 🔗 Link: Split a String in Balanced Strings
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
