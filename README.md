@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-267%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-268%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-03-31 | Number of Arithmetic Triplets | hash_table | C++ | [View](solutions/hash_table/2367_number_of_arithmetic_triplets.cpp) |
 | 2026-03-30 | Decode the Message | hash_table | C++ | [View](solutions/hash_table/2325_decode_the_message.cpp) |
 | 2026-03-29 | Minimum Sum of Four Digit Number After Splitting Digits | greedy | C++ | [View](solutions/greedy/2160_minimum_sum_of_four_digit_number_after_splitting_digits.cpp) |
 | 2026-03-28 | Filter Elements from Array | basic_javascript | C++ | [View](solutions/basic_javascript/2634_filter_elements_from_array.cpp) |
