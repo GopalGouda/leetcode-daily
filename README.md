@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-271%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-272%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-04 | Excel Sheet Column Title | maths | C++ | [View](solutions/maths/168_excel_sheet_column_title.cpp) |
 | 2026-04-03 | Reverse Prefix of Word | string | C++ | [View](solutions/string/2000_reverse_prefix_of_word.cpp) |
 | 2026-04-02 | Partition Array According to Given Pivot | arrays | C++ | [View](solutions/arrays/2161_partition_array_according_to_given_pivot.cpp) |
 | 2026-04-01 | String Matching in an Array | string | C++ | [View](solutions/string/1408_string_matching_in_an_array.cpp) |
