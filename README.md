@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-275%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-276%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-08 | Check if the Sentence Is Pangram | hash_table | C++ | [View](solutions/hash_table/1832_check_if_the_sentence_is_pangram.cpp) |
 | 2026-04-07 | Find All Numbers Disappeared in an Array | hash_table | C++ | [View](solutions/hash_table/448_find_all_numbers_disappeared_in_an_array.cpp) |
 | 2026-04-06 | First Matching Character From Both Ends | string | C++ | [View](solutions/string/3884_first_matching_character_from_both_ends.cpp) |
 | 2026-04-05 | Remove Outermost Parentheses | stack | C++ | [View](solutions/stack/1021_remove_outermost_parentheses.cpp) |
