@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-279%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-280%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-12 | Minimum Number of Operations to Make Elements in Array Distinct | hash_table | C++ | [View](solutions/hash_table/3396_minimum_number_of_operations_to_make_elements_in_array_distinct.cpp) |
 | 2026-04-11 | Substring Matching Pattern | string | C++ | [View](solutions/string/3407_substring_matching_pattern.cpp) |
 | 2026-04-10 | Sum of Elements With Frequency Divisible by K | hash_table | C++ | [View](solutions/hash_table/3712_sum_of_elements_with_frequency_divisible_by_k.cpp) |
 | 2026-04-09 | Valid Palindrome | string | C++ | [View](solutions/string/125_valid_palindrome.cpp) |
