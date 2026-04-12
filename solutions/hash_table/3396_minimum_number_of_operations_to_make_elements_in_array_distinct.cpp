@@ -1,8 +1,8 @@
 // ✅ Problem: Minimum Number of Operations to Make Elements in Array Distinct
 // 🔗 Link: https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/
 // 🗂 Topic: hash_table
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(N)
+// 💾 Space Complexity: O(N)
 #include <unordered_set>
 // 🧠 Approach: 
 
