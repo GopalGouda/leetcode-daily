@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-282%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-283%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-15 | Convert an Array Into a 2D Array With Conditions | hash_table | C++ | [View](solutions/hash_table/2610_convert_an_array_into_a_2d_array_with_conditions.cpp) |
 | 2026-04-14 | Summary Ranges | arrays | C++ | [View](solutions/arrays/228_summary_ranges.cpp) |
 | 2026-04-13 | Find Common Elements Between Two Arrays | hash_table | C++ | [View](solutions/hash_table/2956_find_common_elements_between_two_arrays.cpp) |
 | 2026-04-12 | Minimum Number of Operations to Make Elements in Array Distinct | hash_table | C++ | [View](solutions/hash_table/3396_minimum_number_of_operations_to_make_elements_in_array_distinct.cpp) |
