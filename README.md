@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-287%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-288%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-20 | Valid Mountain Array | arrays | C++ | [View](solutions/arrays/941_valid_mountain_array.cpp) |
 | 2026-04-19 | Minimize String Length | hash_table | C++ | [View](solutions/hash_table/2716_minimize_string_length.cpp) |
 | 2026-04-18 | Subarrays Distinct Element Sum of Squares I | hash_table | C++ | [View](solutions/hash_table/2913_subarrays_distinct_element_sum_of_squares_i.cpp) |
 | 2026-04-17 | Find if Digit Game Can Be Won | maths | C++ | [View](solutions/maths/3232_find_if_digit_game_can_be_won.cpp) |
