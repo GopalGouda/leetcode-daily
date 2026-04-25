@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-292%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-293%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-25 | Increasing Decreasing String | hash_table | C++ | [View](solutions/hash_table/1370_increasing_decreasing_string.cpp) |
 | 2026-04-24 | 4Sum | two_pointer | C++ | [View](solutions/two_pointer/018_4sum.cpp) |
 | 2026-04-23 | Reformat The String | string | C++ | [View](solutions/string/1417_reformat_the_string.cpp) |
 | 2026-04-22 | Toeplitz Matrix | matrix | C++ | [View](solutions/matrix/766_toeplitz_matrix.cpp) |
