@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-294%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-295%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-04-27 | Reverse String II | string | C++ | [View](solutions/string/541_reverse_string_ii.cpp) |
 | 2026-04-26 | Cells with Odd Values in a Matrix | matrix | C++ | [View](solutions/matrix/1252_cells_with_odd_values_in_a_matrix.cpp) |
 | 2026-04-25 | Increasing Decreasing String | hash_table | C++ | [View](solutions/hash_table/1370_increasing_decreasing_string.cpp) |
 | 2026-04-24 | 4Sum | two_pointer | C++ | [View](solutions/two_pointer/018_4sum.cpp) |
