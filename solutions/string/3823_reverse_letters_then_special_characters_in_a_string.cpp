@@ -2,7 +2,7 @@
 // 🔗 Link: https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/description/
 // 🗂 Topic: string
 // ⏱ Time Complexity: O(n)
-// 💾 Space Complexity: O()
+// 💾 Space Complexity: O(n)
 // 🧠 Approach: 
 
 #include <iostream>
