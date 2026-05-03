@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-299%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-300%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-03 | Minimum Changes To Make Alternating Binary String | string | C++ | [View](solutions/string/1758_minimum_changes_to_make_alternating_binary_string.cpp) |
 | 2026-05-02 | Reverse Letters Then Special Characters in a String | string | C++ | [View](solutions/string/3823_reverse_letters_then_special_characters_in_a_string.cpp) |
 | 2026-05-01 | Count Vowel Substrings of a String | hash_table | C++ | [View](solutions/hash_table/2062_count_vowel_substrings_of_a_string.cpp) |
 | 2026-04-30 | Special Positions in a Binary Matrix | matrix | C++ | [View](solutions/matrix/1582_special_positions_in_a_binary_matrix.cpp) |
