@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-301%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-302%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-05 | Bitwise OR of Even Numbers in an Array | string | C++ | [View](solutions/string/3688_bitwise_or_of_even_numbers_in_an_array.cpp) |
 | 2026-05-04 | Count the Number of Vowel Strings in Range | string | C++ | [View](solutions/string/2586_count_the_number_of_vowel_strings_in_range.cpp) |
 | 2026-05-03 | Minimum Changes To Make Alternating Binary String | string | C++ | [View](solutions/string/1758_minimum_changes_to_make_alternating_binary_string.cpp) |
 | 2026-05-02 | Reverse Letters Then Special Characters in a String | string | C++ | [View](solutions/string/3823_reverse_letters_then_special_characters_in_a_string.cpp) |
