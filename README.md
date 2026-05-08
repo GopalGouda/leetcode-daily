@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-304%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-305%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-08 | DI String Match | two_pointers | C++ | [View](solutions/two_pointers/942_di_string_match.cpp) |
 | 2026-05-07 | Existence of a Substring in a String and Its Reverse | hash_table | C++ | [View](solutions/hash_table/3083_existence_of_a_substring_in_a_string_and_its_reverse.cpp) |
 | 2026-05-06 | Find the Encrypted String | string | C++ | [View](solutions/string/3210_find_the_encrypted_string.cpp) |
 | 2026-05-05 | Bitwise OR of Even Numbers in an Array | string | C++ | [View](solutions/string/3688_bitwise_or_of_even_numbers_in_an_array.cpp) |
