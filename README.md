@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-308%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-309%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-12 | Largest Odd Number in String | maths | C++ | [View](solutions/maths/1903_largest_odd_number_in_string.cpp) |
 | 2026-05-11 | Calculate Digit Sum of a String | string | C++ | [View](solutions/string/2243_calculate_digit_sum_of_a_string.cpp) |
 | 2026-05-10 | Isomorphic Strings | hash_table | C++ | [View](solutions/hash_table/205_isomorphic_strings.cpp) |
 | 2026-05-09 | Check Whether Two Strings are Almost Equivalent | hash_table | C++ | [View](solutions/hash_table/2068_check_whether_two_strings_are_almost_equivalent.cpp) |
