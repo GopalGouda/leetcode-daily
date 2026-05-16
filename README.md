@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-312%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-313%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-16 | Vowels Game in a String | string | C++ | [View](solutions/string/3227_vowels_game_in_a_string.cpp) |
 | 2026-05-15 | Number of Segments in a String | string | C++ | [View](solutions/string/434_number_of_segments_in_a_string.cpp) |
 | 2026-05-14 | Check if Matrix Is X-Matrix | matrix | C++ | [View](solutions/matrix/2319_check_if_matrix_is_x-matrix.cpp) |
 | 2026-05-13 | Modify the Matrix | matrix | C++ | [View](solutions/matrix/3033_modify_the_matrix.cpp) |
