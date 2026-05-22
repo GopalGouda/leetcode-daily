@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-318%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-319%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-22 | Greatest Common Divisor of Strings | maths | C++ | [View](solutions/maths/1071_greatest_common_divisor_of_strings.cpp) |
 | 2026-05-21 | Buddy Strings | hash_table | C++ | [View](solutions/hash_table/859_buddy_strings.cpp) |
 | 2026-05-20 | Delete Operation for Two Strings | Dynamic_Programming | C++ | [View](solutions/dynamic_programming/583_delete_operation_for_two_strings.cpp) |
 | 2026-05-19 | Rotate String | string | C++ | [View](solutions/string/796_rotate_string.cpp) |
