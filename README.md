@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-320%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-321%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-24 | Concatenate Array With Reverse | arrays | C++ | [View](solutions/arrays/3925_concatenate_array_with_reverse.cpp) |
 | 2026-05-23 | Valid Parentheses | stack | C++ | [View](solutions/stack/020_valid_parentheses.cpp) |
 | 2026-05-22 | Greatest Common Divisor of Strings | maths | C++ | [View](solutions/maths/1071_greatest_common_divisor_of_strings.cpp) |
 | 2026-05-21 | Buddy Strings | hash_table | C++ | [View](solutions/hash_table/859_buddy_strings.cpp) |
