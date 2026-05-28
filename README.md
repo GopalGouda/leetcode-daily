@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-324%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-325%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-28 | Construct the Rectangle | maths | C++ | [View](solutions/maths/492_construct_the_rectangle.cpp) |
 | 2026-05-27 | Length of Last Word | string | C++ | [View](solutions/string/058_length_of_last_word.cpp) |
 | 2026-05-26 | Longest Common Prefix | string | C++ | [View](solutions/string/017_longest_common_prefix.cpp) |
 | 2026-05-25 | Add to Array-Form of Integer | maths | C++ | [View](solutions/maths/989_add_to_array-form_of_integer.cpp) |
