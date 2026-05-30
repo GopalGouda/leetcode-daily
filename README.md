@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-326%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-327%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-05-30 | Arranging Coins | binary_search | C++ | [View](solutions/binary_search/441_arranging_coins.cpp) |
 | 2026-05-29 | Excel Sheet Column Number | maths | C++ | [View](solutions/maths/171_excel_sheet_column_number.cpp) |
 | 2026-05-28 | Construct the Rectangle | maths | C++ | [View](solutions/maths/492_construct_the_rectangle.cpp) |
 | 2026-05-27 | Length of Last Word | string | C++ | [View](solutions/string/058_length_of_last_word.cpp) |
