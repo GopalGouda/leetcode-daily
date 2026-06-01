@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-328%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-330%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,8 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-01 | Fizz Buzz | string | C++ | [View](solutions/string/412_fizz_buzz.cpp) |
+| 2026-06-01 | Word Pattern | hash_table | C++ | [View](solutions/hash_table/290_word_pattern.cpp) |
 | 2026-05-31 | Digit Frequency Score | maths | C++ | [View](solutions/maths/3945_digit_frequency_score.cpp) |
 | 2026-05-30 | Arranging Coins | binary_search | C++ | [View](solutions/binary_search/441_arranging_coins.cpp) |
 | 2026-05-29 | Excel Sheet Column Number | maths | C++ | [View](solutions/maths/171_excel_sheet_column_number.cpp) |
