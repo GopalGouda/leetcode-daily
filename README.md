@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-330%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-331%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-02 | Count Digit Appearances | string | C++ | [View](solutions/string/3895_count_digit_appearances.cpp) |
 | 2026-06-01 | Fizz Buzz | string | C++ | [View](solutions/string/412_fizz_buzz.cpp) |
 | 2026-06-01 | Word Pattern | hash_table | C++ | [View](solutions/hash_table/290_word_pattern.cpp) |
 | 2026-05-31 | Digit Frequency Score | maths | C++ | [View](solutions/maths/3945_digit_frequency_score.cpp) |
