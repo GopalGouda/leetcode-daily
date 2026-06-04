@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-332%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-333%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-04 | Nim Game | Game Theory | C++ | [View](solutions/game theory/292_nim_game.cpp) |
 | 2026-06-03 | Hash Divided String | string | C++ | [View](solutions/string/3271_hash_divided_string.cpp) |
 | 2026-06-02 | Count Digit Appearances | string | C++ | [View](solutions/string/3895_count_digit_appearances.cpp) |
 | 2026-06-01 | Fizz Buzz | string | C++ | [View](solutions/string/412_fizz_buzz.cpp) |
