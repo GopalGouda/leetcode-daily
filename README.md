@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2026-06-04 | Nim Game | Game Theory | C++ | [View](solutions/game theory/292_nim_game.cpp) |
+| 2026-06-04 | Nim Game | Game Theory | C++ | [View](solutions/game_theory/292_nim_game.cpp) |
 | 2026-06-03 | Hash Divided String | string | C++ | [View](solutions/string/3271_hash_divided_string.cpp) |
 | 2026-06-02 | Count Digit Appearances | string | C++ | [View](solutions/string/3895_count_digit_appearances.cpp) |
 | 2026-06-01 | Fizz Buzz | string | C++ | [View](solutions/string/412_fizz_buzz.cpp) |
