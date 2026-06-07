@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-335%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-336%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-07 | Determine Whether Matrix Can Be Obtained By Rotation | matrix | C++ | [View](solutions/matrix/1886_determine_whether_matrix_can_be_obtained_by_rotation.cpp) |
 | 2026-06-06 | Repeated String Match | string | C++ | [View](solutions/string/686_repeated_string_match.cpp) |
 | 2026-06-05 | Final Value of Variable After Performing Operations | string | C++ | [View](solutions/string/2011_final_value_of_variable_after_performing_operations.cpp) |
 | 2026-06-04 | Nim Game | Game Theory | C++ | [View](solutions/game_theory/292_nim_game.cpp) |
