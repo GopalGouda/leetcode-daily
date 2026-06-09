@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-337%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-338%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-09 | Kth Distinct String in an Array | hash_table | C++ | [View](solutions/hash_table/2053_kth_distinct_string_in_an_array.cpp) |
 | 2026-06-08 | Check If It Is a Straight Line | arrays | C++ | [View](solutions/arrays/1232_check_if_it_is_a_straight_line.cpp) |
 | 2026-06-07 | Determine Whether Matrix Can Be Obtained By Rotation | matrix | C++ | [View](solutions/matrix/1886_determine_whether_matrix_can_be_obtained_by_rotation.cpp) |
 | 2026-06-06 | Repeated String Match | string | C++ | [View](solutions/string/686_repeated_string_match.cpp) |
