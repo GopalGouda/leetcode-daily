@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-341%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-342%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-13 | Remove All Adjacent Duplicates In String | stack | C++ | [View](solutions/stack/1047_remove_all_adjacent_duplicates_in_string.cpp) |
 | 2026-06-12 | Password Strength | hash_table | C++ | [View](solutions/hash_table/3941_password_strength.cpp) |
 | 2026-06-11 | Remove One Element to Make the Array Strictly Increasing | array | C++ | [View](solutions/array/1909_remove_one_element_to_make_the_array_strictly_increasing.cpp) |
 | 2026-06-10 | Check if One String Swap Can Make Strings Equal | hash_table | C++ | [View](solutions/hash_table/1790_check_if_one_string_swap_can_make_strings_equal.cpp) |
