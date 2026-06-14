@@ -12,7 +12,28 @@ using namespace std;
 
 class Solution {
 public:
-    // Your code here
+    int maxScore(string s) {
+        int onesRight = 0;
+
+        for (char c : s) {
+            if (c == '1') onesRight++;
+        }
+
+        int zerosLeft = 0;
+        int ans = 0;
+
+        for (int i = 0; i < s.size() - 1; i++) {
+            if (s[i] == '0') {
+                zerosLeft++;
+            } else {
+                onesRight--;
+            }
+
+            ans = max(ans, zerosLeft + onesRight);
+        }
+
+        return ans;        
+    }
 };
 
 int main() {
