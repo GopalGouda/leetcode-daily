@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-345%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-346%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-17 | Check if Strings Can be Made Equal With Operations I | string | C++ | [View](solutions/string/2839_check_if_strings_can_be_made_equal_with_operations_i.cpp) |
 | 2026-06-16 | Check if Binary String Has at Most One Segment of Ones | string | C++ | [View](solutions/string/1784_check_if_binary_string_has_at_most_one_segment_of_ones.cpp) |
 | 2026-06-15 | Second Largest Digit in a String | hash_table | C++ | [View](solutions/hash_table/1796_second_largest_digit_in_a_string.cpp) |
 | 2026-06-14 | Maximum Score After Splitting a String | string | C++ | [View](solutions/string/1422_maximum_score_after_splitting_a_string.cpp) |
