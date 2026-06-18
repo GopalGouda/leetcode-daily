@@ -1,6 +1,6 @@
-// ✅ Problem: Roman to Integer
-// 🔗 Link: https://leetcode.com/problems/roman-to-integer/description/
-// 🗂 Topic: hash_table
+// ✅ Problem: Sum of Squares of Special Elements
+// 🔗 Link: https://leetcode.com/problems/sum-of-squares-of-special-elements/description/
+// 🗂 Topic: Array
 // ⏱ Time Complexity: O(n)
 // 💾 Space Complexity: O(1)
 // 🧠 Approach: 
@@ -13,24 +13,17 @@ using namespace std;
 
 class Solution {
 public:
-    int romanToInt(string s) {
-    unordered_map<char, int> roman = {
-        {'I', 1}, {'V', 5}, {'X', 10},
-        {'L', 50}, {'C', 100},
-        {'D', 500}, {'M', 1000}
-    };
+    int sumOfSquares(vector<int>& nums) {
+    int n = nums.size();
+    int result = 0;
 
-    int total = 0;
-
-    for (int i = 0; i < s.length(); i++) {
-        if (i < s.length() - 1 && roman[s[i]] < roman[s[i + 1]]) {
-            total -= roman[s[i]];
-        } else {
-            total += roman[s[i]];
+    for (int i = 1; i <= n; i++) {
+        if (n % i == 0) {
+            result += nums[i - 1] * nums[i - 1]; // 0-based indexing
         }
     }
 
-    return total;        
+    return result;        
     }
 };
 
