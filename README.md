@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-348%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-349%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-20 | Check Good Integer | maths | C++ | [View](solutions/maths/3959_check_good_integer.cpp) |
 | 2026-06-19 | Strong Password Checker II | string | C++ | [View](solutions/string/2299_strong_password_checker_ii.cpp) |
 | 2026-06-18 | Minimum Number of Flips to Reverse Binary String | two_pointers | C++ | [View](solutions/bit_manipulation/3750_minimum_number_of_flips_to_reverse_binary_string.cpp) |
 | 2026-06-17 | Check if Strings Can be Made Equal With Operations I | string | C++ | [View](solutions/string/2839_check_if_strings_can_be_made_equal_with_operations_i.cpp) |
