@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-350%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-351%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-23 | Make The String Great | stack | C++ | [View](solutions/stack/1544_make_the_string_great.cpp) |
 | 2026-06-22 | Find the Index of the First Occurrence in a String | two_pointers | C++ | [View](solutions/two_pointers/028_find_the_index_of_the_first_occurrence_in_a_string.cpp) |
 | 2026-06-20 | Check Good Integer | maths | C++ | [View](solutions/maths/3959_check_good_integer.cpp) |
 | 2026-06-19 | Strong Password Checker II | string | C++ | [View](solutions/string/2299_strong_password_checker_ii.cpp) |
