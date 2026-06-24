@@ -1,8 +1,8 @@
 // ✅ Problem: Valid Anagram
 // 🔗 Link: https://leetcode.com/problems/valid-anagram/description/
 // 🗂 Topic: hash_table
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n)
+// 💾 Space Complexity: O(k)
 // 🧠 Approach: 
 
 #include <iostream>
