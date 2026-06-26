@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-353%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-354%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-26 | Number of Different Integers in a String | hash_table | C++ | [View](solutions/hash_table/1805_number_of_different_integers_in_a_string.cpp) |
 | 2026-06-25 | Rearrange Characters to Make Target String | hash_table | C++ | [View](solutions/hash_table/2287_rearrange_characters_to_make_target_string.cpp) |
 | 2026-06-24 | Valid Anagram | hash_table | C++ | [View](solutions/hash_table/242_valid_anagram.cpp) |
 | 2026-06-23 | Make The String Great | stack | C++ | [View](solutions/stack/1544_make_the_string_great.cpp) |
