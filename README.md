@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-357%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-358%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-06-30 | Sum of Digits of String After Convert | string | C++ | [View](solutions/string/1945_sum_of_digits_of_string_after_convert.cpp) |
 | 2026-06-29 | Check If String Is a Prefix of Array | two_pointers | C++ | [View](solutions/two_pointers/1961_check_if_string_is_a_prefix_of_array.cpp) |
 | 2026-06-28 | Happy Number | hash_table | C++ | [View](solutions/hash_table/202_happy_number.cpp) |
 | 2026-06-27 | Find the Longest Balanced Substring of a Binary String | string | C++ | [View](solutions/string/2609_find_the_longest_balanced_substring_of_a_binary_string.cpp) |
