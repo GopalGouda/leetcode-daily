@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-361%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-362%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-04 | Magical String | two_pointer | C++ | [View](solutions/two_pointers/481_magical_string.cpp) |
 | 2026-07-03 | Reverse Words in a String | two_pointer | C++ | [View](solutions/two_pointer/151_reverse_words_in_a_string.cpp) |
 | 2026-07-02 | Make Three Strings Equal | string | C++ | [View](solutions/string/2937_make_three_strings_equal.cpp) |
 | 2026-07-01 | Count Elements With Strictly Smaller and Greater Elements  | sorting | C++ | [View](solutions/sorting/2148_count_elements_with_strictly_smaller_and_greater_elements_.cpp) |
