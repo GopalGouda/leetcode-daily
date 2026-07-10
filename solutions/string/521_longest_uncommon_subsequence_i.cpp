@@ -1,8 +1,8 @@
 // ✅ Problem: Longest Uncommon Subsequence I
 // 🔗 Link: 
 // 🗂 Topic: string
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
