@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-367%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-368%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-10 | Longest Uncommon Subsequence I | string | C++ | [View](solutions/string/521_longest_uncommon_subsequence_i.cpp) |
 | 2026-07-09 | First Unique Character in a String | hash_table | C++ | [View](solutions/hash_table/387_first_unique_character_in_a_string.cpp) |
 | 2026-07-08 | Odd String Difference | hash_table | C++ | [View](solutions/hash_table/2451_odd_string_difference.cpp) |
 | 2026-07-07 | Minimum Moves to Convert String | string | C++ | [View](solutions/string/2027_minimum_moves_to_convert_string.cpp) |
