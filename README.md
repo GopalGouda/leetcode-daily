@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-371%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-372%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-14 | Number of Times Binary String Is Prefix-Aligned | arrays | C++ | [View](solutions/arrays/1375_number_of_times_binary_string_is_prefix-aligned.cpp) |
 | 2026-07-13 | Lexicographically Smallest String After a Swap | greedy | C++ | [View](solutions/greedy/3216_lexicographically_smallest_string_after_a_swap.cpp) |
 | 2026-07-12 | Redistribute Characters to Make All Strings Equal | hash_table | C++ | [View](solutions/hash_table/1897_redistribute_characters_to_make_all_strings_equal.cpp) |
 | 2026-07-11 | Find Valid Pair of Adjacent Digits in String | hash_table | C++ | [View](solutions/hash_table/3438_find_valid_pair_of_adjacent_digits_in_string.cpp) |
