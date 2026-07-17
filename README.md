@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-374%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-375%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-17 | Multiply Strings | maths | C++ | [View](solutions/maths/043_multiply_strings.cpp) |
 | 2026-07-16 | Longest Strictly Increasing or Strictly Decreasing Subarray | arrays | C++ | [View](solutions/arrays/3105_longest_strictly_increasing_or_strictly_decreasing_subarray.cpp) |
 | 2026-07-15 | Reverse Degree of a String | string | C++ | [View](solutions/string/3498_reverse_degree_of_a_string.cpp) |
 | 2026-07-14 | Number of Times Binary String Is Prefix-Aligned | arrays | C++ | [View](solutions/arrays/1375_number_of_times_binary_string_is_prefix-aligned.cpp) |
