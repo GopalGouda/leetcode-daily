@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-376%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-377%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-20 | Make String a Subsequence Using Cyclic Increments | two_pointers | C++ | [View](solutions/two_pointers/2825_make_string_a_subsequence_using_cyclic_increments.cpp) |
 | 2026-07-19 | Detect Capital | string | C++ | [View](solutions/string/520_detect_capital.cpp) |
 | 2026-07-17 | Multiply Strings | maths | C++ | [View](solutions/maths/043_multiply_strings.cpp) |
 | 2026-07-16 | Longest Strictly Increasing or Strictly Decreasing Subarray | arrays | C++ | [View](solutions/arrays/3105_longest_strictly_increasing_or_strictly_decreasing_subarray.cpp) |
