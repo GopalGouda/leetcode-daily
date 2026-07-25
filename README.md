@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-381%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-382%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-25 | String to Integer (atoi) | string | C++ | [View](solutions/string/008_string_to_integer_(atoi).cpp) |
 | 2026-07-24 | Student Attendance Record I | string | C++ | [View](solutions/string/551_student_attendance_record_i.cpp) |
 | 2026-07-23 | Sort Array By Parity II | sorting | C++ | [View](solutions/sorting/922_sort_array_by_parity_ii.cpp) |
 | 2026-07-22 | Rearrange String to Avoid Character Pair | string | C++ | [View](solutions/string/3992_rearrange_string_to_avoid_character_pair.cpp) |
