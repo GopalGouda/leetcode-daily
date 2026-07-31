@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-387%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-388%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-07-31 | Distribute Candies | hash_table | C++ | [View](solutions/hash_table/575_distribute_candies.cpp) |
 | 2026-07-30 | Uncommon Words from Two Sentences | hash_table | C++ | [View](solutions/hash_table/884_uncommon_words_from_two_sentences.cpp) |
 | 2026-07-29 | Maximum Product of Two Digits | maths | C++ | [View](solutions/maths/3536_maximum_product_of_two_digits.cpp) |
 | 2026-07-28 | Container With Most Water | two_pointers | C++ | [View](solutions/two_pointers/011_container_with_most_water.cpp) |
