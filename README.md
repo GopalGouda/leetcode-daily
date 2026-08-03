@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-390%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-391%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-03 | Ransom Note | hash_table | C++ | [View](solutions/hash_table/383_ransom_note.cpp) |
 | 2026-08-02 | Prime Arrangements | maths | C++ | [View](solutions/maths/1175_prime_arrangements.cpp) |
 | 2026-08-01 | Convert Integer to the Sum of Two No-Zero Integers | maths | C++ | [View](solutions/maths/1317_convert_integer_to_the_sum_of_two_no-zero_integers.cpp) |
 | 2026-07-31 | Distribute Candies | hash_table | C++ | [View](solutions/hash_table/575_distribute_candies.cpp) |
