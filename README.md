@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-394%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-395%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-07 | License Key Formatting | string | C++ | [View](solutions/string/482_license_key_formatting.cpp) |
 | 2026-08-06 | Check if Number Has Equal Digit Count and Digit Value | hash_table | C++ | [View](solutions/hash_table/2283_check_if_number_has_equal_digit_count_and_digit_value.cpp) |
 | 2026-08-05 | Count the Number of Consistent Strings | bit_manipulation | C++ | [View](solutions/bit_manipulation/1684_count_the_number_of_consistent_strings.cpp) |
 | 2026-08-04 | String Without AAA or BBB | greedy | C++ | [View](solutions/greedy/984_string_without_aaa_or_bbb.cpp) |
