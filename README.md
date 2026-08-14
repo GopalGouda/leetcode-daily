@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-400%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-401%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-14 | Count Binary Substrings | two_pointers | C++ | [View](solutions/two_pointers/696_count_binary_substrings.cpp) |
 | 2026-08-13 | Range Addition II | maths | C++ | [View](solutions/maths/598_range_addition_ii.cpp) |
 | 2026-08-12 | Find the Middle Index in Array | arrays | C++ | [View](solutions/arrays/1991_find_the_middle_index_in_array.cpp) |
 | 2026-08-11 | Teemo Attacking | arrays | C++ | [View](solutions/arrays/495_teemo_attacking.cpp) |
