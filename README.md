@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-403%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-404%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-17 | Intersection of Two Arrays II | hash_table | C++ | [View](solutions/hash_table/350_intersection_of_two_arrays_ii.cpp) |
 | 2026-08-16 | Number of Matching Subsequences | hash_table | C++ | [View](solutions/hash_table/792_number_of_matching_subsequences.cpp) |
 | 2026-08-15 | Check if Array Is Sorted and Rotated | arrays | C++ | [View](solutions/arrays/1752_check_if_array_is_sorted_and_rotated.cpp) |
 | 2026-08-14 | Count Binary Substrings | two_pointers | C++ | [View](solutions/two_pointers/696_count_binary_substrings.cpp) |
