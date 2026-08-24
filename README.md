@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-410%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-411%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-24 | Get Maximum in Generated Array | arrays | C++ | [View](solutions/arrays/1646_get_maximum_in_generated_array.cpp) |
 | 2026-08-23 | Trionic Array I | arrays | C++ | [View](solutions/arrays/3637_trionic_array_i.cpp) |
 | 2026-08-22 | Number of Unequal Triplets in Array | hash_table | C++ | [View](solutions/hash_table/2475_number_of_unequal_triplets_in_array.cpp) |
 | 2026-08-21 | Intersection of Two Arrays | hash_table | C++ | [View](solutions/hash_table/349_intersection_of_two_arrays.cpp) |
