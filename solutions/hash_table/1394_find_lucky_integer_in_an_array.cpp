@@ -3,7 +3,7 @@
 // 🗂 Topic: hash_table
 // ⏱ Time Complexity: O(n)
 // 💾 Space Complexity: O(n)
-// 🧠 Approach: Use a hash table to count the frequency of each element, then check for lucky integers.
+// 🧠 Approach:
 
 #include <iostream>
 #include <vector>
