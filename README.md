@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-414%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-415%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-28 | Check Array Formation Through Concatenation | hash_table | C++ | [View](solutions/hash_table/1640_check_array_formation_through_concatenation.cpp) |
 | 2026-08-28 | Special Array With X Elements Greater Than or Equal X | arrays | C++ | [View](solutions/arrays/1608_special_array_with_x_elements_greater_than_or_equal_x.cpp) |
 | 2026-08-26 | Find Lucky Integer in an Array | hash_table | C++ | [View](solutions/hash_table/1394_find_lucky_integer_in_an_array.cpp) |
 | 2026-08-25 | Largest Substring Between Two Equal Characters | string | C++ | [View](solutions/string/1624_largest_substring_between_two_equal_characters.cpp) |
