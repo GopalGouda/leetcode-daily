@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-417%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-418%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-08-31 | Find Resultant Array After Removing Anagrams | sorting | C++ | [View](solutions/sorting/2273_find_resultant_array_after_removing_anagrams.cpp) |
 | 2026-08-30 | Most Frequent Number Following Key In an Array | hash_table | C++ | [View](solutions/hash_table/2190_most_frequent_number_following_key_in_an_array.cpp) |
 | 2026-08-29 | Maximum Number of Pairs in Array | hash_table | C++ | [View](solutions/hash_table/2341_maximum_number_of_pairs_in_array.cpp) |
 | 2026-08-28 | Check Array Formation Through Concatenation | hash_table | C++ | [View](solutions/hash_table/1640_check_array_formation_through_concatenation.cpp) |
