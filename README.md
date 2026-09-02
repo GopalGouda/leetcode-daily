@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-419%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-420%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-02 | Max Pair Sum in an Array | arrays | C++ | [View](solutions/arrays/2815_max_pair_sum_in_an_array.cpp) |
 | 2026-09-01 | 1-bit and 2-bit Characters | bit_manipulation | C++ | [View](solutions/bit_manipulation/717_1-bit_and_2-bit_characters.cpp) |
 | 2026-08-31 | Find Resultant Array After Removing Anagrams | sorting | C++ | [View](solutions/sorting/2273_find_resultant_array_after_removing_anagrams.cpp) |
 | 2026-08-30 | Most Frequent Number Following Key In an Array | hash_table | C++ | [View](solutions/hash_table/2190_most_frequent_number_following_key_in_an_array.cpp) |
