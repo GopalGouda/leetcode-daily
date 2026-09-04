@@ -1,4 +1,4 @@
-// ✅ Problem: 1005
+// ✅ Problem: Maximize Sum Of Array After K Negations
 // 🔗 Link: https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/
 // 🗂 Topic: greedy
 // ⏱ Time Complexity: O(n log n)

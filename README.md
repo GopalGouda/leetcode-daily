@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-422%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-423%2F100-brightgreen)
 
 ---
 
@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2026-09-04 | 1005 | greedy | C++ | [View](solutions/greedy/Maximize_Sum_Of_Array_After_K_Negations_1005.cpp) |
+| 2026-09-04 | Maximize Sum Of Array After K Negations | greedy | C++ | [View](solutions/greedy/1005_maximize_sum_of_array_after_k_negations.cpp) |
 | 2026-09-03 | Transpose Matrix | matrix | C++ | [View](solutions/matrix/867_transpose_matrix.cpp) |
 | 2026-09-02 | Max Pair Sum in an Array | arrays | C++ | [View](solutions/arrays/2815_max_pair_sum_in_an_array.cpp) |
 | 2026-09-01 | 1-bit and 2-bit Characters | bit_manipulation | C++ | [View](solutions/bit_manipulation/717_1-bit_and_2-bit_characters.cpp) |
