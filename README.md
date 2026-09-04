@@ -28,7 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
-| 2026-09-04 | 1005 | greedy | C++ | [View](solutions/greedy/Maximize Sum Of Array After K Negations_1005.cpp) |
+| 2026-09-04 | 1005 | greedy | C++ | [View](solutions/greedy/Maximize_Sum_Of_Array_After_K_Negations_1005.cpp) |
 | 2026-09-03 | Transpose Matrix | matrix | C++ | [View](solutions/matrix/867_transpose_matrix.cpp) |
 | 2026-09-02 | Max Pair Sum in an Array | arrays | C++ | [View](solutions/arrays/2815_max_pair_sum_in_an_array.cpp) |
 | 2026-09-01 | 1-bit and 2-bit Characters | bit_manipulation | C++ | [View](solutions/bit_manipulation/717_1-bit_and_2-bit_characters.cpp) |
