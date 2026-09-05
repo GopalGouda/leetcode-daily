@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-05 | Find the Difference of Two Arrays | hash_table | C++ | [View](solutions/hash_table/2215_find_the_difference_of_two_arrays.cpp) |
 | 2026-09-04 | Maximize Sum Of Array After K Negations | greedy | C++ | [View](solutions/greedy/1005_maximize_sum_of_array_after_k_negations.cpp) |
 | 2026-09-03 | Transpose Matrix | matrix | C++ | [View](solutions/matrix/867_transpose_matrix.cpp) |
 | 2026-09-02 | Max Pair Sum in an Array | arrays | C++ | [View](solutions/arrays/2815_max_pair_sum_in_an_array.cpp) |
