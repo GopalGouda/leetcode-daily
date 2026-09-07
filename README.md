@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-424%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-425%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-07 | Shortest Distance to Target String in a Circular Array | arrays | C++ | [View](solutions/arrays/2515_shortest_distance_to_target_string_in_a_circular_array.cpp) |
 | 2026-09-06 | Make Two Arrays Equal by Reversing Subarrays | hash_table | C++ | [View](solutions/hash_table/1460_make_two_arrays_equal_by_reversing_subarrays.cpp) |
 | 2026-09-05 | Find the Difference of Two Arrays | hash_table | C++ | [View](solutions/hash_table/2215_find_the_difference_of_two_arrays.cpp) |
 | 2026-09-04 | Maximize Sum Of Array After K Negations | greedy | C++ | [View](solutions/greedy/1005_maximize_sum_of_array_after_k_negations.cpp) |
