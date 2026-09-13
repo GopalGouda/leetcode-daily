@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-428%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-429%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-13 | Apply Operations to an Array | two_pointers | C++ | [View](solutions/two_pointers/2460_apply_operations_to_an_array.cpp) |
 | 2026-09-12 | Separate the Digits in an Array | arrays | C++ | [View](solutions/arrays/2553_separate_the_digits_in_an_array.cpp) |
 | 2026-09-11 | Construct Uniform Parity Array I | arrays | C++ | [View](solutions/arrays/3875_construct_uniform_parity_array_i.cpp) |
 | 2026-09-10 | Find Target Indices After Sorting Array | sorting | C++ | [View](solutions/sorting/2089_find_target_indices_after_sorting_array.cpp) |
