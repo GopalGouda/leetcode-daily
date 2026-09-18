@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-432%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-433%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-18 | Valid Phone Numbers | shell | C++ | [View](solutions/shell/193_valid_phone_numbers.cpp) |
 | 2026-09-17 | Split the Array | hash_table | C++ | [View](solutions/hash_table/3046_split_the_array.cpp) |
 | 2026-09-16 | Minimum String Length After Removing Substrings | stack | C++ | [View](solutions/stack/2696_minimum_string_length_after_removing_substrings.cpp) |
 | 2026-09-15 | Minimum Operations to Make Array Values Equal to K | hash_table | C++ | [View](solutions/hash_table/3375_minimum_operations_to_make_array_values_equal_to_k.cpp) |
