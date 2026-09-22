@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-436%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-437%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-22 | Find the Array Concatenation Value | two_pointers | C++ | [View](solutions/two_pointers/2562_find_the_array_concatenation_value.cpp) |
 | 2026-09-21 | Check if Array is Good | sorting | C++ | [View](solutions/sorting/2784_check_if_array_is_good.cpp) |
 | 2026-09-20 | Find the K-or of an Array | bit_manipulation | C++ | [View](solutions/bit_manipulation/2917_find_the_k-or_of_an_array.cpp) |
 | 2026-09-19 | Remove Duplicates from Sorted Array II | arrays | C++ | [View](solutions/arrays/080_remove_duplicates_from_sorted_array_ii.cpp) |
