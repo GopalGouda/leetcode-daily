@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-438%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-439%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-24 | Day of the Year | string | C++ | [View](solutions/string/1154_day_of_the_year.cpp) |
 | 2026-09-23 | Make Array Elements Equal to Zero | two_pointers | C++ | [View](solutions/two_pointers/3354_make_array_elements_equal_to_zero.cpp) |
 | 2026-09-22 | Find the Array Concatenation Value | two_pointers | C++ | [View](solutions/two_pointers/2562_find_the_array_concatenation_value.cpp) |
 | 2026-09-21 | Check if Array is Good | sorting | C++ | [View](solutions/sorting/2784_check_if_array_is_good.cpp) |
