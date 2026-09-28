@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-442%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-443%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-09-28 | Valid Elements in an Array | arrays | C++ | [View](solutions/arrays/3912_valid_elements_in_an_array.cpp) |
 | 2026-09-27 | Minimum Moves to Equal Array Elements | maths | C++ | [View](solutions/maths/453_minimum_moves_to_equal_array_elements.cpp) |
 | 2026-09-26 | Find Minimum in Rotated Sorted Array | arrays | C++ | [View](solutions/arrays/153_find_minimum_in_rotated_sorted_array.cpp) |
 | 2026-09-25 | Limit Occurrences in Sorted Array | two_pointers | C++ | [View](solutions/two_pointers/3940_limit_occurrences_in_sorted_array.cpp) |
