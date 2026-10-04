@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-448%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-449%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-04 | Beautiful Array | array | C++ | [View](solutions/array/932_beautiful_array.cpp) |
 | 2026-10-03 | Swap Adjacent in LR String | two_pointers | C++ | [View](solutions/two_pointers/777_swap_adjacent_in_lr_string.cpp) |
 | 2026-10-02 | Distribute Elements Into Two Arrays I | two_pointers | C++ | [View](solutions/two_pointers/3069_distribute_elements_into_two_arrays_i.cpp) |
 | 2026-10-01 | Divide an Array Into Subarrays With Minimum Cost I | sorting | C++ | [View](solutions/sorting/3010_divide_an_array_into_subarrays_with_minimum_cost_i.cpp) |
