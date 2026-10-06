@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-450%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-451%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-06 | Find All Duplicates in an Array | hash_table | C++ | [View](solutions/hash_table/442_find_all_duplicates_in_an_array.cpp) |
 | 2026-10-05 | Find the Distance Value Between Two Arrays | arrays | C++ | [View](solutions/arrays/1385_find_the_distance_value_between_two_arrays.cpp) |
 | 2026-10-04 | Beautiful Array | array | C++ | [View](solutions/arrays/932_beautiful_array.cpp) |
 | 2026-10-03 | Swap Adjacent in LR String | two_pointers | C++ | [View](solutions/two_pointers/777_swap_adjacent_in_lr_string.cpp) |
