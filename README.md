@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-454%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-456%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,8 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-12 | Non-decreasing Array | arrays | C++ | [View](solutions/arrays/665_non-decreasing_array.cpp) |
+| 2026-10-12 | 665. Non-decreasing Array | Medium | C++ | [View](solutions/medium/665_665._non-decreasing_array.cpp) |
 | 2026-10-11 | Sum in a Matrix | matrix | C++ | [View](solutions/matrix/2679_sum_in_a_matrix.cpp) |
 | 2026-10-10 | Product of Array Except Self | arrays | C++ | [View](solutions/arrays/238_product_of_array_except_self.cpp) |
 | 2026-10-07 | Find the Distinct Difference Array | hash_table | C++ | [View](solutions/hash_table/2670_find_the_distinct_difference_array.cpp) |
