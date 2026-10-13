@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-13 | Maximum Product of Three Numbers | sorting | C++ | [View](solutions/sorting/628_maximum_product_of_three_numbers.cpp) |
 | 2026-10-12 | Non-decreasing Array | arrays | C++ | [View](solutions/arrays/665_non-decreasing_array.cpp) |
 | 2026-10-11 | Sum in a Matrix | matrix | C++ | [View](solutions/matrix/2679_sum_in_a_matrix.cpp) |
 | 2026-10-10 | Product of Array Except Self | arrays | C++ | [View](solutions/arrays/238_product_of_array_except_self.cpp) |
