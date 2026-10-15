@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-457%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-458%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-15 | Intersection of Multiple Arrays | hash_table | C++ | [View](solutions/hash_table/2248_intersection_of_multiple_arrays.cpp) |
 | 2026-10-14 | Pascal's Triangle | dynamic_programming | C++ | [View](solutions/dynamic_programming/118_pascal's_triangle.cpp) |
 | 2026-10-13 | Maximum Product of Three Numbers | sorting | C++ | [View](solutions/sorting/628_maximum_product_of_three_numbers.cpp) |
 | 2026-10-12 | Non-decreasing Array | arrays | C++ | [View](solutions/arrays/665_non-decreasing_array.cpp) |
