@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-460%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-461%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-18 | Form Smallest Number From Two Digit Arrays | hash_table | C++ | [View](solutions/hash_table/2605_form_smallest_number_from_two_digit_arrays.cpp) |
 | 2026-10-17 | Sort Integers by Binary Reflection | sorting | C++ | [View](solutions/sorting/3769_sort_integers_by_binary_reflection.cpp) |
 | 2026-10-16 | Single Element in a Sorted Array | binary_search | C++ | [View](solutions/binary_search/540_single_element_in_a_sorted_array.cpp) |
 | 2026-10-15 | Intersection of Multiple Arrays | hash_table | C++ | [View](solutions/hash_table/2248_intersection_of_multiple_arrays.cpp) |
