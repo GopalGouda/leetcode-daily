@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-462%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-463%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-21 | Maximum XOR of Two Numbers in an Array | arrays | C++ | [View](solutions/arrays/421_maximum_xor_of_two_numbers_in_an_array.cpp) |
 | 2026-10-19 | Furthest Point From Origin | string | C++ | [View](solutions/string/2833_furthest_point_from_origin.cpp) |
 | 2026-10-18 | Form Smallest Number From Two Digit Arrays | hash_table | C++ | [View](solutions/hash_table/2605_form_smallest_number_from_two_digit_arrays.cpp) |
 | 2026-10-17 | Sort Integers by Binary Reflection | sorting | C++ | [View](solutions/sorting/3769_sort_integers_by_binary_reflection.cpp) |
