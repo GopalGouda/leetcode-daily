@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-465%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-466%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-24 | Number of Ways to Split a String | maths | C++ | [View](solutions/maths/1573_number_of_ways_to_split_a_string.cpp) |
 | 2026-10-23 | Find the Number of Copy Arrays | sorting | C++ | [View](solutions/sorting/3468_find_the_number_of_copy_arrays.cpp) |
 | 2026-10-22 | Partition Array for Maximum Sum | arrays | C++ | [View](solutions/arrays/1043_partition_array_for_maximum_sum.cpp) |
 | 2026-10-21 | Maximum XOR of Two Numbers in an Array | arrays | C++ | [View](solutions/arrays/421_maximum_xor_of_two_numbers_in_an_array.cpp) |
