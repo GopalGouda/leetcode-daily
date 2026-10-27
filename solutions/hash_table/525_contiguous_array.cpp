@@ -1,8 +1,8 @@
 // ✅ Problem: Contiguous Array
 // 🔗 Link: https://leetcode.com/problems/contiguous-array/description/
 // 🗂 Topic: hash_table
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n)
+// 💾 Space Complexity: O(n)
 // 🧠 Approach: 
 
 #include <iostream>
