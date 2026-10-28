@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-468%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-469%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-28 | First Bad Version | binary_search | C++ | [View](solutions/binary_search/278_first_bad_version.cpp) |
 | 2026-10-27 | Contiguous Array | hash_table | C++ | [View](solutions/hash_table/525_contiguous_array.cpp) |
 | 2026-10-25 | Minimum Operations to Equalize Array | bit_manipulation | C++ | [View](solutions/bit_manipulation/3674_minimum_operations_to_equalize_array.cpp) |
 | 2026-10-24 | Number of Ways to Split a String | maths | C++ | [View](solutions/maths/1573_number_of_ways_to_split_a_string.cpp) |
