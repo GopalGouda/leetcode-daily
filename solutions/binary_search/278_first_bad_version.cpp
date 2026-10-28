@@ -10,8 +10,16 @@
 #include <algorithm>
 using namespace std;
 
-// The API isBadVersion is defined for you.
-// bool isBadVersion(int version);
+
+#include <iostream>
+using namespace std;
+
+// Mock API for local testing
+int bad = 4;
+
+bool isBadVersion(int version) {
+    return version >= bad;
+}
 
 class Solution {
 public:
@@ -29,8 +37,15 @@ public:
         }
 
         return left;
-    }        
+    }
 };
+
+int main() {
+    Solution sol;
+    cout << sol.firstBadVersion(5) << endl;
+    return 0;
+}
+
 
 int main() {
     Solution sol;
