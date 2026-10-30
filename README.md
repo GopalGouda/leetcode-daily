@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-470%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-471%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-10-30 | Two Sum II - Input Array Is Sorted | two_pointers | C++ | [View](solutions/two_pointers/167_two_sum_ii_-_input_array_is_sorted.cpp) |
 | 2026-10-29 | Rectangle Overlap | maths | C++ | [View](solutions/maths/836_rectangle_overlap.cpp) |
 | 2026-10-28 | First Bad Version | binary_search | C++ | [View](solutions/binary_search/278_first_bad_version.cpp) |
 | 2026-10-27 | Contiguous Array | hash_table | C++ | [View](solutions/hash_table/525_contiguous_array.cpp) |
