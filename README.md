@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-473%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-474%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-03 | Partition Array into Disjoint Intervals | arrays | C++ | [View](solutions/arrays/915_partition_array_into_disjoint_intervals.cpp) |
 | 2026-11-02 | Backspace String Compare | stack | C++ | [View](solutions/stack/844_backspace_string_compare.cpp) |
 | 2026-11-01 | Relative Sort Array | hash_table | C++ | [View](solutions/hash_table/1122_relative_sort_array.cpp) |
 | 2026-10-30 | Two Sum II - Input Array Is Sorted | two_pointers | C++ | [View](solutions/two_pointers/167_two_sum_ii_-_input_array_is_sorted.cpp) |
