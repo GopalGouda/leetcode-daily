@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-477%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-478%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-07 | Decoded String at Index | string | C++ | [View](solutions/string/880_decoded_string_at_index.cpp) |
 | 2026-11-06 | Binary Digit Score | binary_search | C++ | [View](solutions/binary_search/4092_binary_digit_score.cpp) |
 | 2026-11-05 | Transformed Array | arrays | C++ | [View](solutions/arrays/3379_transformed_array.cpp) |
 | 2026-11-04 | Count Pairs Of Similar Strings | hash_table | C++ | [View](solutions/hash_table/2506_count_pairs_of_similar_strings.cpp) |
