@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-479%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-480%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-09 | Find the Child Who Has the Ball After K Seconds | maths | C++ | [View](solutions/maths/3178_find_the_child_who_has_the_ball_after_k_seconds.cpp) |
 | 2026-11-08 | Minimum Flips to Make Binary String Coherent |  | C++ | [View](solutions/3922_minimum_flips_to_make_binary_string_coherent.cpp) |
 | 2026-11-07 | Decoded String at Index | string | C++ | [View](solutions/string/880_decoded_string_at_index.cpp) |
 | 2026-11-06 | Binary Digit Score | binary_search | C++ | [View](solutions/binary_search/4092_binary_digit_score.cpp) |
