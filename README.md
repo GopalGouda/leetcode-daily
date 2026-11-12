@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-482%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-483%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-12 | Minimum Increment to Make Array Unique | greedy | C++ | [View](solutions/greedy/945_minimum_increment_to_make_array_unique.cpp) |
 | 2026-11-11 | Maximum Distance in Arrays | greedy | C++ | [View](solutions/greedy/624_maximum_distance_in_arrays.cpp) |
 | 2026-11-10 | Points That Intersect With Cars | hash_table | C++ | [View](solutions/hash_table/2848_points_that_intersect_with_cars.cpp) |
 | 2026-11-09 | Find the Child Who Has the Ball After K Seconds | maths | C++ | [View](solutions/maths/3178_find_the_child_who_has_the_ball_after_k_seconds.cpp) |
