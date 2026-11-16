@@ -1,8 +1,8 @@
 // ✅ Problem: Minimum Number of Moves to Seat Everyone
 // 🔗 Link: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
 // 🗂 Topic: greedy
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n log n)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
