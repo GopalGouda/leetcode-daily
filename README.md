@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-488%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-489%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-19 | Assign Cookies | greedy | C++ | [View](solutions/greedy/455_assign_cookies.cpp) |
 | 2026-11-18 | Lemonade Change | Greedy | C++ | [View](solutions/greedy/860_lemonade_change.cpp) |
 | 2026-11-17 | Pascal's Triangle II | dynamic_programming | C++ | [View](solutions/dynamic_programming/119_pascal's_triangle_ii.cpp) |
 | 2026-11-16 | Minimum Number of Moves to Seat Everyone | greedy | C++ | [View](solutions/greedy/2037_minimum_number_of_moves_to_seat_everyone.cpp) |
