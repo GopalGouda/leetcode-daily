@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-490%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-491%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-21 | Minimum Index Sum of Two Lists | hash_table | C++ | [View](solutions/hash_table/599_minimum_index_sum_of_two_lists.cpp) |
 | 2026-11-20 | Longest Palindrome | greedy | C++ | [View](solutions/greedy/409_longest_palindrome.cpp) |
 | 2026-11-19 | Assign Cookies | greedy | C++ | [View](solutions/greedy/455_assign_cookies.cpp) |
 | 2026-11-18 | Lemonade Change | Greedy | C++ | [View](solutions/greedy/860_lemonade_change.cpp) |
