@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-493%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-494%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-24 | Valid Palindrome II | greedy | C++ | [View](solutions/greedy/680_valid_palindrome_ii.cpp) |
 | 2026-11-23 | Robot Return to Origin | string | C++ | [View](solutions/string/657_robot_return_to_origin.cpp) |
 | 2026-11-22 | Best Time to Buy and Sell Stock | Dynamic_Programming | C++ | [View](solutions/dynamic_programming/121_best_time_to_buy_and_sell_stock.cpp) |
 | 2026-11-21 | Minimum Index Sum of Two Lists | hash_table | C++ | [View](solutions/hash_table/599_minimum_index_sum_of_two_lists.cpp) |
