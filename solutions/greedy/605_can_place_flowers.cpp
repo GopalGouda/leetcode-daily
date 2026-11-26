@@ -1,8 +1,8 @@
 // ✅ Problem: Can Place Flowers
 // 🔗 Link: https://leetcode.com/problems/can-place-flowers/description/
 // 🗂 Topic: greedy
-// ⏱ Time Complexity: O()
-// 💾 Space Complexity: O()
+// ⏱ Time Complexity: O(n)
+// 💾 Space Complexity: O(1)
 // 🧠 Approach: 
 
 #include <iostream>
