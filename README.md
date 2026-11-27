@@ -11,7 +11,7 @@
 📌 **Language:** C++  
 🚀 **Started:** 2025-07-01  
 🔗 **My LeetCode Profile:** [leetcode.com/u/GopalGouda](https://leetcode.com/u/GopalGouda)  
-![Progress](https://img.shields.io/badge/Completed-496%2F100-brightgreen)
+![Progress](https://img.shields.io/badge/Completed-497%2F100-brightgreen)
 
 ---
 
@@ -28,6 +28,7 @@ Tracking my daily problem-solving journey in C++.
 
 | Date       | Problem Name       | Topic       | Language | Solution                               |
 |------------|--------------------|-------------|----------|----------------------------------------|
+| 2026-11-27 | Find Pivot Index | arrays | C++ | [View](solutions/arrays/724_find_pivot_index.cpp) |
 | 2026-11-26 | Can Place Flowers | greedy | C++ | [View](solutions/greedy/605_can_place_flowers.cpp) |
 | 2026-11-25 | X of a Kind in a Deck of Cards | maths | C++ | [View](solutions/maths/914_x_of_a_kind_in_a_deck_of_cards.cpp) |
 | 2026-11-24 | Valid Palindrome II | greedy | C++ | [View](solutions/greedy/680_valid_palindrome_ii.cpp) |
